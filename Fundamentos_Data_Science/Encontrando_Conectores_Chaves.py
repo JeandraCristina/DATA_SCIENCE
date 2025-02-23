@@ -26,3 +26,10 @@ for i, j in friendship_pairs:
     friendships[i].append(j) # Adiciona j como amigo do usuário i
     friendships[j].append(i) # Adiciona i como amigo do usuário j
     
+#para Realizar consultas (perguntas) ao grafo, primeiro, determinamos o número total de conexões somando os tamanhos
+# de todas as listas de friends
+def number_of_friends(user):
+    '''Quantos amigos tem o _user_?'''
+    user_id = user["id"]
+    friends_ids = friendships[user_id]
+    return len(friends_ids)    
