@@ -46,3 +46,4 @@ print(avg_connections)
 
 # Agora vamos Encontrar as pessoas mais conectadas 
 # Pra isso vamos coloca-los em ordem decrescente, dos que têm mais amigos para os que têm menos amigos
+num_friends_by_id = [(user["id"], number_of_friends(user)) for user in users] # criando uma lista (user_id, number_of_friends)
