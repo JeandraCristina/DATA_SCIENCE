@@ -34,4 +34,6 @@ def number_of_friends(user):
     friends_ids = friendships[user_id]
     return len(friends_ids)
 
-total_connection = sum(number_of_friends(user) for user in users)    
+total_connection = sum(number_of_friends(user) for user in users)
+
+print(total_connection) #total 24 conexões    
