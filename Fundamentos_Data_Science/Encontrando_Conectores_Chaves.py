@@ -20,3 +20,9 @@ friendship_pairs = [(0, 1), (0,2), (1, 2), (1, 3), (2, 3), (3, 4),
 
 # Inicializando (criando) o dict com uma lista vazia para cada id de usuário:
 friendships = {user["id"]: [] for user in users} 
+
+# Agora execute um loop pelos pares de amigos para preenchê-las:
+for i, j in friendship_pairs:
+    friendships[i].append(j) # Adiciona j como amigo do usuário i
+    friendships[j].append(i) # Adiciona i como amigo do usuário j
+    
