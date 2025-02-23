@@ -37,3 +37,12 @@ def number_of_friends(user):
 total_connection = sum(number_of_friends(user) for user in users)
 
 print(total_connection) #total 24 conexões    
+
+# Dividando pelo número de usuários
+num_users = len(users)                            # tamanho da lista de usuário
+avg_connections = total_connection / num_users    # 24 / 10 == 2.4
+
+print(avg_connections) 
+
+# Agora vamos Encontrar as pessoas mais conectadas 
+# Pra isso vamos coloca-los em ordem decrescente, dos que têm mais amigos para os que têm menos amigos
