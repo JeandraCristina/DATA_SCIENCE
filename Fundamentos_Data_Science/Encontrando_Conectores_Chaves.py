@@ -47,3 +47,4 @@ print(avg_connections)
 # Agora vamos Encontrar as pessoas mais conectadas 
 # Pra isso vamos coloca-los em ordem decrescente, dos que têm mais amigos para os que têm menos amigos
 num_friends_by_id = [(user["id"], number_of_friends(user)) for user in users] # criando uma lista (user_id, number_of_friends)
+num_friends_by_id.sort(key=lambda id_and_friends: id_and_friends[1], reverse=True) # classificando a lista por num_friends do maior para o menor
