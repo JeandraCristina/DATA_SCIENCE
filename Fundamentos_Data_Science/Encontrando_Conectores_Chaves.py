@@ -32,4 +32,6 @@ def number_of_friends(user):
     '''Quantos amigos tem o _user_?'''
     user_id = user["id"]
     friends_ids = friendships[user_id]
-    return len(friends_ids)    
+    return len(friends_ids)
+
+total_connection = sum(number_of_friends(user) for user in users)    
