@@ -38,3 +38,8 @@ Comandos:
 
 # Verificando se um item está na lista
 #print(4 in lista) # Output: True
+
+# Concatenando duas listas
+#outra_lista = [7, 8, 9]
+#lista += outra_lista
+#print(lista)
