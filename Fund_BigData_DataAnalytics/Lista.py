@@ -49,3 +49,7 @@ Comandos:
 #print(lista)
 #parte_da_lista = lista[1:6:1]#último item ele não pega
 #print(parte_da_lista)
+
+# Repetindo uma lista
+#lista *= 2
+#print(lista)
