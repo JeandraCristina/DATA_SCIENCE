@@ -43,3 +43,9 @@ Comandos:
 #outra_lista = [7, 8, 9]
 #lista += outra_lista
 #print(lista)
+
+# Fatiando uma lista
+# lista[ inicio : fim : passo ]
+#print(lista)
+#parte_da_lista = lista[1:6:1]#último item ele não pega
+#print(parte_da_lista)
