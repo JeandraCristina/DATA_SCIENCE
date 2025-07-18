@@ -83,3 +83,7 @@ Comandos:
 #    print("A soma é: ",somaI)
 #    i = i + 1
 #Fim de Programa
+
+#Funções estatísticas para listas
+#a = [10,20,30,50,60,40]
+#print(a)
