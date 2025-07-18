@@ -35,3 +35,6 @@ Comandos:
 # Invertendo a ordem da lista
 #lista.reverse()
 #print(lista)
+
+# Verificando se um item está na lista
+#print(4 in lista) # Output: True
