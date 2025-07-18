@@ -56,3 +56,6 @@ Comandos:
 
 # Verificando o índice de um item na lista
 #print(lista.index(6))
+
+# Contando a quantidade de vezes que um item aparece na lista
+#print(lista.count(7))
