@@ -67,3 +67,10 @@ Comandos:
 #soma = 0
 #media = 0
 #count = 1
+
+#for n1 in a:
+#    soma = n1 + soma
+#    count = count + 1 
+#media = soma / count
+#print("A soma é: ",soma)
+#print("A média é: ",media)
