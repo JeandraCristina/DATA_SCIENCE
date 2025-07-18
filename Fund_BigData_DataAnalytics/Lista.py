@@ -12,3 +12,6 @@ Comandos:
 
 # Imprimindo o tamanho da lista
 #print(len(lista)) # Output: 5
+
+# Acessando um item específico na lista
+#print(lista[2]) # Output: 3
