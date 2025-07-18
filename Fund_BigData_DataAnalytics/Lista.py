@@ -27,3 +27,7 @@ Comandos:
 # Removendo um item da lista
 #lista.remove(3)
 #print(lista)
+
+# Ordenando a lista
+#lista.sort()
+#print(lista)
