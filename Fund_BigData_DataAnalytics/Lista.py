@@ -6,3 +6,6 @@ Comandos:
 # Criando uma lista com alguns itens
 #lista = [1, 2, 3, 4, 5]
 #print(lista)
+
+#Podemos observar a classe de uma lista com type():
+#print(type(lista))
