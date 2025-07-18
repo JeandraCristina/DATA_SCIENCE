@@ -15,3 +15,7 @@ Comandos:
 
 # Acessando um item específico na lista
 #print(lista[2]) # Output: 3
+
+# Adicionando um item ao final da lista
+#lista.append(6)
+#print(lista)
