@@ -74,3 +74,12 @@ Comandos:
 #media = soma / count
 #print("A soma é: ",soma)
 #print("A média é: ",media)
+
+#print("Calculando o Valor dos índices")
+#somaI = 0
+#i = 0
+#while i <= 5:
+#    somaI = a[i] + b[i]
+#    print("A soma é: ",somaI)
+#    i = i + 1
+#Fim de Programa
