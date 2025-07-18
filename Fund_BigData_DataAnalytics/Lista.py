@@ -23,3 +23,7 @@ Comandos:
 # Inserindo um item em uma posição específica da lista
 #lista.insert(2, 7)
 #print(lista)
+
+# Removendo um item da lista
+#lista.remove(3)
+#print(lista)
