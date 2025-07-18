@@ -31,3 +31,7 @@ Comandos:
 # Ordenando a lista
 #lista.sort()
 #print(lista)
+
+# Invertendo a ordem da lista
+#lista.reverse()
+#print(lista)
