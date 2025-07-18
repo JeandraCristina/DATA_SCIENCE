@@ -87,3 +87,7 @@ Comandos:
 #Funções estatísticas para listas
 #a = [10,20,30,50,60,40]
 #print(a)
+
+"""SUM -> retorna a soma dos itens"""
+#soma = sum(a)
+#print(soma)
