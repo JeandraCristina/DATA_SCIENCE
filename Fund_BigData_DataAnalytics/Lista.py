@@ -19,3 +19,7 @@ Comandos:
 # Adicionando um item ao final da lista
 #lista.append(6)
 #print(lista)
+
+# Inserindo um item em uma posição específica da lista
+#lista.insert(2, 7)
+#print(lista)
