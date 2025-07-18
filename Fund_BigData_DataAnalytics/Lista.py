@@ -53,3 +53,6 @@ Comandos:
 # Repetindo uma lista
 #lista *= 2
 #print(lista)
+
+# Verificando o índice de um item na lista
+#print(lista.index(6))
