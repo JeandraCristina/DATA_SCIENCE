@@ -61,3 +61,9 @@ Comandos:
 #print(lista.count(7))
 
 #Calculos em Listas
+
+#a = [10,20,30,50,60,40]
+#b = [10,10,10,10,10,10]
+#soma = 0
+#media = 0
+#count = 1
