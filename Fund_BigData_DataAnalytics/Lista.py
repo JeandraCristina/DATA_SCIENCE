@@ -9,3 +9,6 @@ Comandos:
 
 #Podemos observar a classe de uma lista com type():
 #print(type(lista))
+
+# Imprimindo o tamanho da lista
+#print(len(lista)) # Output: 5
