@@ -59,3 +59,5 @@ Comandos:
 
 # Contando a quantidade de vezes que um item aparece na lista
 #print(lista.count(7))
+
+#Calculos em Listas
