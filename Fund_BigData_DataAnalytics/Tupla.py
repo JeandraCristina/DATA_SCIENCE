@@ -12,5 +12,6 @@ print(minha_tupla)
 
 '''
 # Imprimindo o tamanho da tupla
+print(len(minha_tupla)) # Output: 5
 '''
 
