@@ -38,3 +38,7 @@ parte_da_tupla = minha_tupla[2:5]
 print(parte_da_tupla)
 '''
 
+'''
+
+'''
+
