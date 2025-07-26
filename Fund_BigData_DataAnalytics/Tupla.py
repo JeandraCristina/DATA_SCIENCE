@@ -22,5 +22,6 @@ print(len(minha_tupla)) # Output: 5
 
 '''
 # Verificando se um item está na tupla
+#print(4 in minha_tupla) # Output: True
 '''
 
