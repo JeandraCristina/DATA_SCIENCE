@@ -27,5 +27,6 @@ print(4 in minha_tupla) # Output: True
 
 '''
 # Concatenando duas tuplas
+outra_tupla = (6, 7, 8)
 '''
 
