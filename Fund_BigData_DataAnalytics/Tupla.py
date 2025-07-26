@@ -9,3 +9,5 @@ que permite armazenar uma coleção de itens.
 minha_tupla = (1, 2, 3, 4, 5)# ou minha_tupla = 1,2,3,4,5
 print(minha_tupla)
 '''
+
+# Imprimindo o tamanho da tupla
