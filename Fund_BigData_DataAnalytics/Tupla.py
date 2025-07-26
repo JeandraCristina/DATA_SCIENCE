@@ -32,3 +32,7 @@ minha_tupla = minha_tupla + outra_tupla
 print(minha_tupla)
 '''
 
+'''
+# Fatiando uma tupla
+'''
+
