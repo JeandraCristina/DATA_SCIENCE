@@ -34,5 +34,6 @@ print(minha_tupla)
 
 '''
 # Fatiando uma tupla
+parte_da_tupla = minha_tupla[2:5]
 '''
 
