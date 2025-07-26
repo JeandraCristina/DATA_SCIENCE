@@ -17,5 +17,6 @@ print(len(minha_tupla)) # Output: 5
 
 '''
 # Acessando um item específico na tupla
+#print(minha_tupla[2]) # Output: 3
 '''
 
