@@ -17,11 +17,15 @@ print(len(minha_tupla)) # Output: 5
 
 '''
 # Acessando um item específico na tupla
-#print(minha_tupla[2]) # Output: 3
+print(minha_tupla[2]) # Output: 3
 '''
 
 '''
 # Verificando se um item está na tupla
-#print(4 in minha_tupla) # Output: True
+print(4 in minha_tupla) # Output: True
+'''
+
+'''
+# Concatenando duas tuplas
 '''
 
