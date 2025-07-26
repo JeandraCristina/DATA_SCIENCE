@@ -15,3 +15,7 @@ print(minha_tupla)
 print(len(minha_tupla)) # Output: 5
 '''
 
+'''
+# Acessando um item específico na tupla
+'''
+
