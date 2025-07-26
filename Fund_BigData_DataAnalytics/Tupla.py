@@ -20,3 +20,7 @@ print(len(minha_tupla)) # Output: 5
 #print(minha_tupla[2]) # Output: 3
 '''
 
+'''
+# Verificando se um item está na tupla
+'''
+
