@@ -6,5 +6,6 @@ que permite armazenar uma coleção de itens.
 
 '''
 # Criando uma tupla com alguns itens
-
+minha_tupla = (1, 2, 3, 4, 5)# ou minha_tupla = 1,2,3,4,5
+print(minha_tupla)
 '''
