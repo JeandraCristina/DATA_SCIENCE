@@ -40,5 +40,7 @@ y = [10, 15, 5, 12, 7]
 plt.plot(x, y)
 # Adicionar rótulos aos eixos
 plt.xlabel('Eixo X')
+plt.ylabel('Eixo Y')
+# Adicionar título ao gráfico
 
 '''
