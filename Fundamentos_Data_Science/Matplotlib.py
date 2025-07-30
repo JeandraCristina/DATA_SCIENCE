@@ -38,5 +38,7 @@ x = [1, 2, 3, 4, 5]
 y = [10, 15, 5, 12, 7]
 # Criar o gráfico de linha usando a função plot
 plt.plot(x, y)
+# Adicionar rótulos aos eixos
+plt.xlabel('Eixo X')
 
 '''
