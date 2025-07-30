@@ -33,4 +33,5 @@ plt.show()
 
 '''
 #GRÁFICO DE LINHAS (Simples)
+# Dados para o gráfico de linha
 '''
