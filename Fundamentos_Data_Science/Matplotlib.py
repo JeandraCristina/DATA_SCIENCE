@@ -42,5 +42,7 @@ plt.plot(x, y)
 plt.xlabel('Eixo X')
 plt.ylabel('Eixo Y')
 # Adicionar título ao gráfico
-
+plt.title('Gráfico de Linha Simples')
+# Exibir o gráfico
+plt.show()
 '''
