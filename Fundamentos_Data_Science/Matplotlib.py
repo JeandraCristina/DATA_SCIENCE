@@ -50,4 +50,6 @@ plt.show()
 '''
 #GRÁFICO DE BARRAS
 # Dados para o gráfico de barras
+categorias = ['A', 'B', 'C', 'D']
+valores = [20, 10, 15, 5]
 '''
