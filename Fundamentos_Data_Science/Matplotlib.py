@@ -58,4 +58,7 @@ plt.bar(categorias, valores)
 plt.xlabel('Categoria')
 plt.ylabel('Valores')
 # Adicionar título ao gráfico
+plt.title('Gráfico de Barras')
+# Exibir o gráfico
+plt.show()
 '''
