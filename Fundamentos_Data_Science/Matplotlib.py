@@ -1,3 +1,11 @@
+# MATPLOTLIB
+
+# https://matplotlib.org/
+# https://matplotlib.org/stable/contents.html
+
+
+
+
 from matplotlib import pyplot as plt
 
 '''
@@ -13,4 +21,8 @@ plt.title("Nominal PIB")
 #adicione um rotulo ao eixo y
 plt.ylabel("Bilhões de Dolares")
 plt.show()
+'''
+
+'''
+
 '''
