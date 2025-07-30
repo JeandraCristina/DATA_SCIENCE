@@ -3,8 +3,15 @@
 # https://matplotlib.org/
 # https://matplotlib.org/stable/contents.html
 
-
-
+"""
+Biblioteca muito popular em Python para a criação de gráficos e
+visualizações de dados. Ele oferece uma ampla variedade de funções
+para produzir gráficos de alta qualidade em diferentes formatos,
+tornando-o uma excelente ferramenta para análise de dados e comunicação visual.
+Duas Interfaces:
+Interface orientada a objetos: onde você cria e manipula explicitamente objetos de figura e eixos.
+Interface baseada em pyplot: onde você usa funções de alto nível semelhantes às do MATLAB.
+"""
 
 from matplotlib import pyplot as plt
 
