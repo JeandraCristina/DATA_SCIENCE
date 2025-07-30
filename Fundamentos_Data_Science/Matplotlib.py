@@ -34,4 +34,6 @@ plt.show()
 '''
 #GRÁFICO DE LINHAS (Simples)
 # Dados para o gráfico de linha
+x = [1, 2, 3, 4, 5]
+y = [10, 15, 5, 12, 7]
 '''
