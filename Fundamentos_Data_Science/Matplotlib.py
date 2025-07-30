@@ -14,6 +14,7 @@ Interface baseada em pyplot: onde você usa funções de alto nível semelhantes
 """
 
 from matplotlib import pyplot as plt
+import numpy as np
 
 '''
 years = [1950, 1960, 1970, 1980, 1990, 2000, 2010]
@@ -31,5 +32,5 @@ plt.show()
 '''
 
 '''
-
+#GRÁFICO DE LINHAS (Simples)
 '''
