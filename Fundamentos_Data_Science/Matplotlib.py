@@ -56,4 +56,6 @@ valores = [20, 10, 15, 5]
 plt.bar(categorias, valores)
 # Criar os Rótulos do Gráfico
 plt.xlabel('Categoria')
+plt.ylabel('Valores')
+# Adicionar título ao gráfico
 '''
