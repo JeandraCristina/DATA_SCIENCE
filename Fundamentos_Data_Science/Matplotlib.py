@@ -50,8 +50,8 @@ plt.show()
 '''
 #GRÁFICO DE BARRAS
 # Dados para o gráfico de barras
-categorias = ['A', 'B', 'C', 'D']
-valores = [20, 10, 15, 5]
+categorias = ['A', 'B', 'C', 'D', 'E']
+valores = [20, 10, 15, 5, 25]
 # Criar o gráfico de barras usando a função bar
 plt.bar(categorias, valores)
 # Criar os Rótulos do Gráfico
