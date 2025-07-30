@@ -46,3 +46,8 @@ plt.title('Gráfico de Linha Simples')
 # Exibir o gráfico
 plt.show()
 '''
+
+'''
+#GRÁFICO DE BARRAS
+# Dados para o gráfico de barras
+'''
