@@ -52,4 +52,6 @@ plt.show()
 # Dados para o gráfico de barras
 categorias = ['A', 'B', 'C', 'D']
 valores = [20, 10, 15, 5]
+# Criar o gráfico de barras usando a função bar
+plt.bar(categorias, valores)
 '''
