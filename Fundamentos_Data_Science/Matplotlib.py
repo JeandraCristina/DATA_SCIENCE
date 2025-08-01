@@ -88,4 +88,6 @@ plt.xticks(pos, categorias)
 plt.legend()
 # Adicionar título ao gráfico
 plt.title('Gráfico de Barras Agrupadas')
+# Exibir o gráfico
+plt.show()
 '''
