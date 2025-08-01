@@ -76,4 +76,6 @@ pos = np.arange(len(categorias))
 print(pos)
 # Largura das barras
 largura = 0.4
+# Criar o gráfico de barras agrupadas
+plt.bar(pos - largura/2, valores1, largura, label='Valores 1')
 '''
