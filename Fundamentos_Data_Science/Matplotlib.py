@@ -47,11 +47,11 @@ plt.title('Gráfico de Linha Simples')
 plt.show()
 '''
 
-'''
+
 #GRÁFICO DE BARRAS
 # Dados para o gráfico de barras
-categorias = ['A', 'B', 'C', 'D', 'E']
-valores = [20, 10, 15, 5, 25]
+categorias = ['A', 'B', 'C', 'D', 'E', 'F', 'G']
+valores = [20, 10, 12, 15, 5, 23, 25]
 # Criar o gráfico de barras usando a função bar
 plt.bar(categorias, valores)
 # Criar os Rótulos do Gráfico
@@ -61,4 +61,3 @@ plt.ylabel('Valores')
 plt.title('Gráfico de Barras')
 # Exibir o gráfico
 plt.show()
-'''
