@@ -66,4 +66,6 @@ plt.show()
 '''
 #GRÁFICO DE BARRAS AGRUPADAS
 # Dados para o gráfico de barras agrupadas
+import matplotlib.pyplot as plt
+# Dados para o gráfico de barras agrupadas
 '''
