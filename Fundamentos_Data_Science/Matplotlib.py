@@ -47,7 +47,7 @@ plt.title('Gráfico de Linha Simples')
 plt.show()
 '''
 
-
+'''
 #GRÁFICO DE BARRAS
 # Dados para o gráfico de barras
 categorias = ['A', 'B', 'C', 'D', 'E', 'F', 'G']
@@ -61,3 +61,9 @@ plt.ylabel('Valores')
 plt.title('Gráfico de Barras')
 # Exibir o gráfico
 plt.show()
+'''
+
+'''
+#GRÁFICO DE BARRAS AGRUPADAS
+# Dados para o gráfico de barras agrupadas
+'''
