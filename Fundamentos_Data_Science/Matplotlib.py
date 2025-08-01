@@ -68,4 +68,7 @@ plt.show()
 # Dados para o gráfico de barras agrupadas
 import matplotlib.pyplot as plt
 # Dados para o gráfico de barras agrupadas
+categorias = ['A', 'B', 'C', 'D']
+valores1 = [10, 15, 5, 12]
+valores2 = [8, 12, 6, 9]
 '''
