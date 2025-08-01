@@ -74,4 +74,6 @@ valores2 = [8, 12, 6, 9]
 # Posições no eixo X para cada grupo de barras
 pos = np.arange(len(categorias))
 print(pos)
+# Largura das barras
+largura = 0.4
 '''
