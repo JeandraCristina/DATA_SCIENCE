@@ -80,4 +80,6 @@ largura = 0.4
 plt.bar(pos - largura/2, valores1, largura, label='Valores 1')
 plt.bar(pos + largura/2, valores2, largura, label='Valores 2')
 # Definir rótulos para os eixos X e Y
+plt.xlabel('Categorias')
+plt.ylabel('Valores')
 '''
