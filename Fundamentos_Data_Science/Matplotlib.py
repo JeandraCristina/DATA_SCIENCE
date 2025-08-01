@@ -84,4 +84,6 @@ plt.xlabel('Categorias')
 plt.ylabel('Valores')
 # Definir rótulos para as posições no eixo X
 plt.xticks(pos, categorias)
+# Adicionar legenda
+plt.legend()
 '''
