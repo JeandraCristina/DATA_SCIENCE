@@ -71,4 +71,7 @@ import matplotlib.pyplot as plt
 categorias = ['A', 'B', 'C', 'D']
 valores1 = [10, 15, 5, 12]
 valores2 = [8, 12, 6, 9]
+# Posições no eixo X para cada grupo de barras
+pos = np.arange(len(categorias))
+print(pos)
 '''
