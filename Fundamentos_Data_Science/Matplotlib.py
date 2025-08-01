@@ -86,4 +86,6 @@ plt.ylabel('Valores')
 plt.xticks(pos, categorias)
 # Adicionar legenda
 plt.legend()
+# Adicionar título ao gráfico
+plt.title('Gráfico de Barras Agrupadas')
 '''
