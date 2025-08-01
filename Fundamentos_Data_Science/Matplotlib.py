@@ -78,4 +78,6 @@ print(pos)
 largura = 0.4
 # Criar o gráfico de barras agrupadas
 plt.bar(pos - largura/2, valores1, largura, label='Valores 1')
+plt.bar(pos + largura/2, valores2, largura, label='Valores 2')
+# Definir rótulos para os eixos X e Y
 '''
