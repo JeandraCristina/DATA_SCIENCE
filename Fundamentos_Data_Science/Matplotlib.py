@@ -100,3 +100,4 @@ plt.scatter(x, y)
 # Adicionar rótulos aos eixos e título ao gráfico
 plt.xlabel('Eixo X')
 plt.ylabel('Eixo Y')
+plt.title('Gráfico de Dispersão')
