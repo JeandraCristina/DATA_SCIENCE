@@ -114,3 +114,4 @@ plt.pie(tamanhos, labels=labels, autopct='%1.1f%%', startangle=90)
 # Adicionar título ao gráfico
 plt.title('Gráfico de Pizza')
 # Exibir o gráfico
+plt.show()
