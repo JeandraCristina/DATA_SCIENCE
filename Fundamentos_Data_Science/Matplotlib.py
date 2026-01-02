@@ -109,3 +109,4 @@ plt.show()
 #GRÁFICO DE PIZZA
 tamanhos = [30, 40, 20, 10]
 labels = ['A', 'B', 'C', 'D']
+# Criar o gráfico de pizza usando a função pie
