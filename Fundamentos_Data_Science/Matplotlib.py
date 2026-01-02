@@ -101,3 +101,4 @@ plt.scatter(x, y)
 plt.xlabel('Eixo X')
 plt.ylabel('Eixo Y')
 plt.title('Gráfico de Dispersão')
+# Exibir o gráfico
