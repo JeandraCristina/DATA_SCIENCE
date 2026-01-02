@@ -110,3 +110,4 @@ plt.show()
 tamanhos = [30, 40, 20, 10]
 labels = ['A', 'B', 'C', 'D']
 # Criar o gráfico de pizza usando a função pie
+plt.pie(tamanhos, labels=labels, autopct='%1.1f%%', startangle=90)
