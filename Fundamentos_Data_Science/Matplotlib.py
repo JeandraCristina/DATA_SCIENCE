@@ -97,3 +97,4 @@ x = [1, 2, 3, 4, 5]
 y = [10, 15, 5, 12, 7]
 # Criar o gráfico de dispersão usando a função scatter
 plt.scatter(x, y)
+# Adicionar rótulos aos eixos e título ao gráfico
