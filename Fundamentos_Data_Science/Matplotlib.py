@@ -106,6 +106,7 @@ plt.title('Gráfico de Dispersão')
 plt.show()
 '''
 
+'''
 #GRÁFICO DE PIZZA
 tamanhos = [30, 40, 20, 10]
 labels = ['A', 'B', 'C', 'D']
@@ -115,3 +116,4 @@ plt.pie(tamanhos, labels=labels, autopct='%1.1f%%', startangle=90)
 plt.title('Gráfico de Pizza')
 # Exibir o gráfico
 plt.show()
+'''
