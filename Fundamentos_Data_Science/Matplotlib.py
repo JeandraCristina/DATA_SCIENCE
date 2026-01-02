@@ -91,3 +91,5 @@ plt.title('Gráfico de Barras Agrupadas')
 # Exibir o gráfico
 plt.show()
 '''
+
+# GRÁFICO DE DISPERSÃO
