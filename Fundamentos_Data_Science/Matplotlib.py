@@ -99,3 +99,4 @@ y = [10, 15, 5, 12, 7]
 plt.scatter(x, y)
 # Adicionar rótulos aos eixos e título ao gráfico
 plt.xlabel('Eixo X')
+plt.ylabel('Eixo Y')
