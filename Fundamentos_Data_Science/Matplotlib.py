@@ -107,3 +107,4 @@ plt.show()
 '''
 
 #GRÁFICO DE PIZZA
+tamanhos = [30, 40, 20, 10]
