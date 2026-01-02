@@ -92,6 +92,7 @@ plt.title('Gráfico de Barras Agrupadas')
 plt.show()
 '''
 
+'''
 # GRÁFICO DE DISPERSÃO
 x = [1, 2, 3, 4, 5]
 y = [10, 15, 5, 12, 7]
@@ -102,3 +103,5 @@ plt.xlabel('Eixo X')
 plt.ylabel('Eixo Y')
 plt.title('Gráfico de Dispersão')
 # Exibir o gráfico
+plt.show()
+'''
