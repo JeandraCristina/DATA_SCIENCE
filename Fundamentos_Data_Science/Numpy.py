@@ -6,3 +6,5 @@ O NumPy é uma biblioteca focada em computação numérica e
 manipulação eficiente de arrays multidimensionais. Embora ele
 não seja voltado especificamente para funções de data, hora e texto, existem outras bibliotecas do ecossistema Python que podem ser usadas
 em conjunto com o NumPy para trabalhar com esses tipos de dados.
+Em resumo, o NumPy é poderoso para computação numérica e manipulação
+de arrays, mas para trabalhar com data, hora e texto, você pode combinar.
