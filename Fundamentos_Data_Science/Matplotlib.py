@@ -124,3 +124,4 @@ dados = [5, 10, 15, 20, 25, 25, 30, 30, 30, 35, 35, 40, 45]
 plt.hist(dados, bins=5, edgecolor='black')
 # Adicionar rótulos aos eixos e título ao gráfico
 plt.xlabel('Valores')
+plt.ylabel('Frequência')
