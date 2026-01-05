@@ -127,3 +127,4 @@ plt.xlabel('Valores')
 plt.ylabel('Frequência')
 plt.title('Histograma')
 # Exibir o gráfico
+plt.show()
