@@ -126,3 +126,4 @@ plt.hist(dados, bins=5, edgecolor='black')
 plt.xlabel('Valores')
 plt.ylabel('Frequência')
 plt.title('Histograma')
+# Exibir o gráfico
