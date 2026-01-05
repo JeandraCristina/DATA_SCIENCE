@@ -120,3 +120,4 @@ plt.show()
 
 # HISTOGRAMA
 dados = [5, 10, 15, 20, 25, 25, 30, 30, 30, 35, 35, 40, 45]
+# Criar o histograma usando a função hist
