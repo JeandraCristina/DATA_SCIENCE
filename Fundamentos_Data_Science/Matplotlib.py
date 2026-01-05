@@ -125,3 +125,4 @@ plt.hist(dados, bins=5, edgecolor='black')
 # Adicionar rótulos aos eixos e título ao gráfico
 plt.xlabel('Valores')
 plt.ylabel('Frequência')
+plt.title('Histograma')
