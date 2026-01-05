@@ -117,3 +117,5 @@ plt.title('Gráfico de Pizza')
 # Exibir o gráfico
 plt.show()
 '''
+
+# HISTOGRAMA
