@@ -24,3 +24,4 @@ print(arr2)
 
 # Funções Especiais NumPy
 # Array de zeros com dimensão (3, 4)
+zeros_arr = np.zeros((3, 4))
