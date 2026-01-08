@@ -14,27 +14,9 @@ o NumPy com outras bibliotecas Python, como datetime e pandas, para obter funcio
 
 #pip install numpy
 import numpy as np
-#Você pode criar arrays do NumPy dzal (matriz)
-arr2 = np.array([[1, 2, 3], [4, 5, 6]])
+#Você pode criar arrays do NumPy dz 2, 3], [4, 5, 6]])
 print(arr2)
 
-# Funções Especiais NumPy
-# Array de zeros com dimensão (3, 4)
+# Funções Especiais NumPys com dimensão (3, 4)
 zeros_arr = np.zeros((3, 4))
-print(zeros_arr)
-# Array de uns com dimensão (2, 5)
-ones_arr = np.ones((2, 5))
-print(ones_arr)
-# Array com valores aleatórios entre 0 e 1 com dimensão (2, 3)
-random_arr = np.random.rand(2, 3)
-print(random_arr)
-
-
-#Indexação e Fatias (Slicing):**
-# Assim como as listas do Python, os arrays do NumPy também podem ser acessados e fatiados:
-arr = np.array([1, 2, 3, 4, 5])
-# Acessando elementos individuais
-print(arr[0])  # Saída: 1
-print(arr[3])  # Saída: 4
-# Fatiando o array
-print(arr[1:4])  # Saída: [2, 3, 4]
+p
