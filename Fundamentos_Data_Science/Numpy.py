@@ -35,3 +35,4 @@ print(random_arr)
 
 
 #Indexação e Fatias (Slicing):**
+# Assim como as listas do Python, os arrays do NumPy também podem ser acessados e fatiados:
