@@ -14,11 +14,7 @@ o NumPy com outras bibliotecas Python, como datetime e pandas, para obter funcio
 
 #pip install numpy
 import numpy as np
-#Você pode criar arrays do NumPy de várias maneiras: A partir de listas Python:
-# Array unidimensional (vetor)
-arr1 = np.array([1, 2, 3, 4, 5])
-print(arr1)
-# Array bidimensional (matriz)
+#Você pode criar arrays do NumPy dzal (matriz)
 arr2 = np.array([[1, 2, 3], [4, 5, 6]])
 print(arr2)
 
