@@ -18,5 +18,4 @@ import numpy as np
 print(arr2)
 
 # Funções Especiais NumPys com dimensão (3, 4)
-zeros_arr = np.zeros((3, 4))
-p
+zeros_arr
