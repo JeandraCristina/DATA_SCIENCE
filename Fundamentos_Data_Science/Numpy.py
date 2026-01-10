@@ -38,3 +38,4 @@ print(random_arr)
 arr = np.array([1, 2, 3, 4, 5])
 # Acessando elementos individuais
 print(arr[0])  # Saída: 1
+print(arr[3])  # Saída: 4
