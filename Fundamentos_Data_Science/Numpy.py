@@ -32,3 +32,5 @@ print(ones_arr)
 # Array com valores aleatórios entre 0 e 1 com dimensão (2, 3)
 random_arr = np.random.rand(2, 3)
 print(random_arr)
+
+#Indexação e Fatias (Slicing):**
