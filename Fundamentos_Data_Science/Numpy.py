@@ -37,3 +37,4 @@ print(random_arr)
 # Assim como as listas do Python, os arrays do NumPy também podem ser acessados e fatiados:
 arr = np.array([1, 2, 3, 4, 5])
 # Acessando elementos individuais
+print(arr[0])  # Saída: 1
