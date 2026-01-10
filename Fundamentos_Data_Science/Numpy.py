@@ -12,10 +12,3 @@ de arrays, mas para trabalhar com data, hora e texto, você pode combinar
 o NumPy com outras bibliotecas Python, como datetime e pandas, para obter funcionalidades mais específicas.
 """
 
-#pip install numpy
-import numpy as np
-#Você pode criar arrays do NumPy dz 2, 3], [4, 5, 6]])
-print(arr2)
-
-# Funções Especiais NumPys com dimensão (3, 4)
-zeros_arr
