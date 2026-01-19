@@ -47,3 +47,4 @@ print(arr[1:4])  # Saída: [2, 3, 4]
 a = np.array([1, 2, 3])
 b = np.array([4, 5, 6])
 # Soma de arrays
+result_sum = a + b  # Saída: [5, 7, 9]
