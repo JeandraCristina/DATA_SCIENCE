@@ -41,3 +41,6 @@ print(arr[0])  # Saída: 1
 print(arr[3])  # Saída: 4
 # Fatiando o array
 print(arr[1:4])  # Saída: [2, 3, 4]
+
+# OPERAÇÕES MATEMÁTICAS:
+# O NumPy permite realizar operações matemáticas em arrays de maneira eficiente:
