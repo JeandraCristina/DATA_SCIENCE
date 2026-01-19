@@ -52,3 +52,4 @@ print(result_sum)
 # Subtração de arrays
 result_subtract = b - a  # Saída: [3, 3, 3]
 print(result_subtract)
+# Multiplicação de arrays (elemento a elemento)
