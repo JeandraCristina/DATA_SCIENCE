@@ -49,3 +49,5 @@ b = np.array([4, 5, 6])
 # Soma de arrays
 result_sum = a + b  # Saída: [5, 7, 9]
 print(result_sum)
+# Subtração de arrays
+result_subtract = b - a  # Saída: [3, 3, 3]
