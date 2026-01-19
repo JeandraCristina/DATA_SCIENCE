@@ -62,3 +62,4 @@ print(result_dot_product)
 # Funções de Data e Hora:
 # Para trabalhar com data e hora, uma das bibliotecas mais populares
 # é o datetime. O NumPy pode armazenar objetos datetime em arrays,
+# e você pode realizar operações matemáticas com eles.
