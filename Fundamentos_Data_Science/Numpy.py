@@ -54,3 +54,4 @@ result_subtract = b - a  # Saída: [3, 3, 3]
 print(result_subtract)
 # Multiplicação de arrays (elemento a elemento)
 result_multiply = a * b  # Saída: [4, 10, 18]
+print(result_multiply)
