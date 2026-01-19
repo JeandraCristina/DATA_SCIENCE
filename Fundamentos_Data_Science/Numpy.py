@@ -57,3 +57,4 @@ result_multiply = a * b  # Saída: [4, 10, 18]
 print(result_multiply)
 # Produto interno (produto escalar) de arrays
 result_dot_product = np.dot(a, b)  # Saída: 32
+print(result_dot_product)
