@@ -76,3 +76,4 @@ print(time_difference)  # Saída: 24 days, 0:00:00
 # Função que retorna o comprimento de uma string
 def str_length(text):
         return len(text)
+# Vetorizando a função para aplicá-la em um array de strings
