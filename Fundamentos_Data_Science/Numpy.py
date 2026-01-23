@@ -64,7 +64,6 @@ print(result_dot_product)
 # é o datetime. O NumPy pode armazenar objetos datetime em arrays,
 # e você pode realizar operações matemáticas com eles.
 
-from datetime import datetime
-# Criando um array com objetos datetime
-dates = np.array([datetime(2023, 7, 1), datetime(2023, 7, 15), datetime(2023, 7, 25)])
+from datetime import datetimetes = np.array([datetime(2023, 7, 1), datetime(2023, 7, 15), datetime(2023, 7, 25)])
 # Diferença entre duas datas
+time_difference = dates[2] - dates[0]
