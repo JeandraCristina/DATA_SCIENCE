@@ -67,3 +67,4 @@ print(result_dot_product)
 from datetime import datetimetes = np.array([datetime(2023, 7, 1), datetime(2023, 7, 15), datetime(2023, 7, 25)])
 # Diferença entre duas datas
 time_difference = dates[2] - dates[0]
+print(time_difference)  # Saída: 24 days, 0:00:00
