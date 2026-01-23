@@ -74,3 +74,4 @@ print(time_difference)  # Saída: 24 days, 0:00:00
 # Enquanto o NumPy não possui funções de texto específicas, você pode
 # aplicar funções de string do Python em arrays do NumPy usando a função np.vectorize.
 # Função que retorna o comprimento de uma string
+def str_length(text):
