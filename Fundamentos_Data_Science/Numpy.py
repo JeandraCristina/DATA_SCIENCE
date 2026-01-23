@@ -72,3 +72,4 @@ print(time_difference)  # Saída: 24 days, 0:00:00
 # Funções de Texto:**
 # Para manipulação de texto, uma biblioteca comum é a str do Python.
 # Enquanto o NumPy não possui funções de texto específicas, você pode
+# aplicar funções de string do Python em arrays do NumPy usando a função
