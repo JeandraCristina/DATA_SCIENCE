@@ -66,4 +66,4 @@ print(result_dot_product)
 
 from datetime import datetime
 # Criando um array com objetos datetime
-dates = np.array([datetime(2023, 7, 1), datetime(2023, 7, 15), datetime(2023,
+dates = np.array([datetime(2023, 7, 1), datetime(2023, 7, 15), datetime(2023, 7, 25)])
