@@ -80,3 +80,4 @@ def str_length(text):
 vectorized_str_length = np.vectorize(str_length)
 arr = np.array(["Olá", "Mundo", "Python"])
 result = vectorized_str_length(arr)
+print(result)  # Saída: [3 5 6]
