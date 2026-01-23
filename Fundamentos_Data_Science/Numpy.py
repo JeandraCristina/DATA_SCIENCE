@@ -65,3 +65,4 @@ print(result_dot_product)
 # e você pode realizar operações matemáticas com eles.
 
 from datetime import datetime
+# Criando um array com objetos datetime
