@@ -64,7 +64,9 @@ print(result_dot_product)
 # é o datetime. O NumPy pode armazenar objetos datetime em arrays,
 # e você pode realizar operações matemáticas com eles.
 
-from datetime import datetimetes = np.array([datetime(2023, 7, 1), datetime(2023, 7, 15), datetime(2023, 7, 25)])
+from datetime import datetime
+# Criando um array com objetos datetime
+dates = np.array([datetime(2023, 7, 1), datetime(2023, 7, 15), datetime(2023, 7, 25)])
 # Diferença entre duas datas
 time_difference = dates[2] - dates[0]
 print(time_difference)  # Saída: 24 days, 0:00:00
@@ -75,7 +77,7 @@ print(time_difference)  # Saída: 24 days, 0:00:00
 # aplicar funções de string do Python em arrays do NumPy usando a função np.vectorize.
 # Função que retorna o comprimento de uma string
 def str_length(text):
-        return len(text)
+    return len(text)
 # Vetorizando a função para aplicá-la em um array de strings
 vectorized_str_length = np.vectorize(str_length)
 arr = np.array(["Olá", "Mundo", "Python"])
