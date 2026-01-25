@@ -131,3 +131,4 @@ plt.show()
 
 
 import matplotlib.pyplot as plt
+# Dados para os gráficos
