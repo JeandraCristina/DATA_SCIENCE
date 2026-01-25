@@ -78,6 +78,3 @@ def str_length(text):
         return len(text)
 # Vetorizando a função para aplicá-la em um array de strings
 vectorized_str_length = np.vectorize(str_length)
-arr = np.array(["Olá", "Mundo", "Python"])
-result = vectorized_str_length(arr)
-print(result)  # Saída: [3 5 6]
