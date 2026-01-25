@@ -132,3 +132,4 @@ plt.show()
 
 import matplotlib.pyplot as plt
 # Dados para os gráficos
+x = [1, 2, 3, 4, 5]
