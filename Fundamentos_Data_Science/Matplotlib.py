@@ -128,3 +128,6 @@ plt.ylabel('Frequência')
 plt.title('Histograma')
 # Exibir o gráfico
 plt.show()
+
+
+import matplotlib.pyplot as plt
