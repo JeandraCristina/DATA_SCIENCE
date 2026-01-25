@@ -134,3 +134,4 @@ import matplotlib.pyplot as plt
 # Dados para os gráficos
 x = [1, 2, 3, 4, 5]
 y1 = [10, 15, 5, 12, 7]
+y2 = [5, 8, 3, 9, 10]
