@@ -138,5 +138,4 @@ y2 = [5, 8, 3, 9, 10]
 y3 = [20, 18, 25, 30, 22]
 y4 = [12, 5, 10, 8, 16]
 # Criar uma figura e uma grade de 2x2 subplots
-fig, axs = plt.subplots(2, 2
-                        )
+fig, axs = plt.subplots(2, 2)
