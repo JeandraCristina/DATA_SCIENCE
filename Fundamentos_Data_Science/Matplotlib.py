@@ -141,3 +141,4 @@ y4 = [12, 5, 10, 8, 16]
 fig, axs = plt.subplots(2, 2)
 # Plotar os gráficos em cada subplot
 axs[0, 0].plot(x, y1)
+axs[0, 0].set_title('Gráfico 1')
