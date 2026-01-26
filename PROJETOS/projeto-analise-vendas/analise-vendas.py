@@ -10,9 +10,11 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
+
 # Estilo dos gráficos
 sns.set(style="whitegrid")
 plt.rcParams["figure.figsize"] = (12, 6)
+
 
 # ====================================================
 # 2. CARREGAMENTO DOS DADOS
