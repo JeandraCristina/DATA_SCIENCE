@@ -151,4 +151,4 @@ axs[1, 1].set_title('Gráfico 4')
 # Ajustar o layout para evitar sobreposição de títulos 
 plt.tight_layout()
 # Exibir a figura com os subplots
-p
+plt.show()
