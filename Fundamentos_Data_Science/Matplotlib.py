@@ -133,9 +133,9 @@ plt.show()
 
 import matplotlib.pyplot as plt
 # Dados para os gráficos
-x = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-y1 = [10, 15, 5, 12, 7, 16, 20]
-y2 = [5, 8, 3, 9, 10, 12, 18]
+x = [1, 2, 3, 4, 5]
+y1 = [10, 15, 5, 12, 7]
+y2 = [5, 8, 3, 9, 10]
 y3 = [20, 18, 25, 30, 22]
 y4 = [12, 5, 10, 8, 16]
 # Criar uma figura e uma grade de 2x2 subplots
@@ -153,3 +153,4 @@ axs[1, 1].set_title('Gráfico 4')
 plt.tight_layout()
 # Exibir a figura com os subplots
 plt.show()
+
