@@ -130,7 +130,7 @@ plt.title('Histograma')
 plt.show()
 '''
 
-
+'''
 import matplotlib.pyplot as plt
 # Dados para os gráficos
 x = [1, 2, 3, 4, 5]
@@ -153,4 +153,4 @@ axs[1, 1].set_title('Gráfico 4')
 plt.tight_layout()
 # Exibir a figura com os subplots
 plt.show()
-
+'''
