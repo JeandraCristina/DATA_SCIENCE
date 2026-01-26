@@ -18,7 +18,7 @@ plt.rcParams["figure.figsize"] = (12, 6)
 # 2. CARREGAMENTO DOS DADOS
 # ====================================================
 # Altere o caminho do arquivo se necessário
-df = pd.read_csv("dados/supermarket_sales.csv")
+df = pd.read_csv('supermarket_sales.csv')
 
 # Visualização inicial
 df.head()
