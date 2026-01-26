@@ -111,3 +111,6 @@ print("Conclusões:")
 print("- A cidade com maior faturamento é: ", vendas_por_cidade.idxmax())
 print("- O tipo de cliente com maior ticket médio é: ", ticket_medio.idxmax())
 print("- O produto mais vendido foi: ", produtos_mais_vendidos.idxmax())
+
+
+
