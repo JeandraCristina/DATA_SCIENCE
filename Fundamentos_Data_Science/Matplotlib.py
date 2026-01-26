@@ -146,3 +146,5 @@ axs[0, 1].plot(x, y2)
 axs[0, 1].set_title('Gráfico 2')
 axs[1, 0].plot(x, y3)
 axs[1, 0].set_title('Gráfico 3')
+axs[1, 1].plot(x, y4)
+
