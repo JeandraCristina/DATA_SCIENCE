@@ -7,3 +7,5 @@
 
 """
 import pandas as pd
+#INSERÇÃO E EXIBIÇÃO DE OBJETOS
+# Ler o arquivo CSV usando pandas
