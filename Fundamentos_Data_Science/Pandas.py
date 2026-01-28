@@ -10,3 +10,5 @@ import pandas as pd
 #INSERÇÃO E EXIBIÇÃO DE OBJETOS
 # Ler o arquivo CSV usando pandas
 df = pd.read_csv(r"Pandas.csv", sep=';', encoding="utf-8")
+print("*"*100)
+"""
