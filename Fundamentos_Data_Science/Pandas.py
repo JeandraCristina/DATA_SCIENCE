@@ -32,3 +32,5 @@ print("*"*100)
 print(df.describe())
 print("*"*100)
 '''
+
+#count: Indica a contagem de valores não nulos na coluna.
