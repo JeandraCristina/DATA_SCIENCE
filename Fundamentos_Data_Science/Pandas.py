@@ -36,3 +36,4 @@ print("*"*100)
 #count: Indica a contagem de valores não nulos na coluna.
 #mean: Representa a média dos valores na coluna.
 #std: É o desvio padrão dos valores na coluna.
+#min: Indica o valor mínimo na coluna.
