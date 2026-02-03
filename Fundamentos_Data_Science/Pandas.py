@@ -17,3 +17,4 @@ print("*"*100)
 #df = pd.read_csv('caminho/do/arquivo.csv', skiprows=3)
 
 #Mostra o cabeçalho até 5 registros
+print(df.head())#pode inserir um valor
