@@ -5,13 +5,13 @@
 # https://pandas.pydata.org/
 # https://pandas.pydata.org/docs/
 
-"""
+
 import pandas as pd
 #INSERÇÃO E EXIBIÇÃO DE OBJETOS
 # Ler o arquivo CSV usando pandas
-df = pd.read_csv(r"Pandas.csv", sep=';', encoding="utf-8")
+df = pd.read_csv(r"Fundamentos_Data_Science/Pandas - Pandas.csv", sep=';', skiprows=3, encoding="utf-8")
 print("*"*100)
-"""
+'''
 #Para remover linhas superiores ao cabeçalho
 # Lendo o arquivo pulando as 3 primeiras linhas
 #df = pd.read_csv('caminho/do/arquivo.csv', skiprows=3)
@@ -31,3 +31,4 @@ print("*"*100)
 #Mostra um resumo dos possíveis campos calculados
 print(df.describe())
 print("*"*100)
+'''
