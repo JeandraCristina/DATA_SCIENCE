@@ -43,3 +43,4 @@ print("*"*100)
 #max: Indica o valor máximo na coluna "Números".
 
 #Exibição de Colunas
+#Pode ser exibido várias colunas.
