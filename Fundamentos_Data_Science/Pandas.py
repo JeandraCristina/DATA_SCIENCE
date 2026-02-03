@@ -44,3 +44,4 @@ print("*"*100)
 
 #Exibição de Colunas
 #Pode ser exibido várias colunas.
+print(df['Letras'],df['Hora'])
