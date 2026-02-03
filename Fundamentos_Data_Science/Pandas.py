@@ -18,3 +18,4 @@ print("*"*100)
 
 #Mostra o cabeçalho até 5 registros
 print(df.head())#pode inserir um valor
+print("*"*100)
