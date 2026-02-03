@@ -12,3 +12,4 @@ import pandas as pd
 df = pd.read_csv(r"Pandas.csv", sep=';', encoding="utf-8")
 print("*"*100)
 """
+#Para remover linhas superiores ao cabeçalho
