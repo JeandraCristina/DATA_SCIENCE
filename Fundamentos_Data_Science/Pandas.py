@@ -38,3 +38,4 @@ print("*"*100)
 #std: É o desvio padrão dos valores na coluna.
 #min: Indica o valor mínimo na coluna.
 #25%: Representa o primeiro quartil ou percentil 25% dos valores.
+#50%: É a mediana dos valores na coluna. A mediana é o valor que divide os dados em duas partes iguais.
