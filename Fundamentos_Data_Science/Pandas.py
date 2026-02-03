@@ -49,3 +49,4 @@ print("*"*100)
 
 #Seleciona linha por rótulos de linhas e colunas
 print(df.loc[5,["Letras"]])
+print(df.loc[2,["Letras"]])
