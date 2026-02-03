@@ -37,3 +37,4 @@ print("*"*100)
 #mean: Representa a média dos valores na coluna.
 #std: É o desvio padrão dos valores na coluna.
 #min: Indica o valor mínimo na coluna.
+#25%: Representa o primeiro quartil ou percentil 25% dos valores.
