@@ -26,3 +26,4 @@ print("*"*100)
 
 #Mostra informações das colunas e tipos
 print(df.info())
+print("*"*100)
