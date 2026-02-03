@@ -29,3 +29,4 @@ print(df.info())
 print("*"*100)
 
 #Mostra um resumo dos possíveis campos calculados
+print(df.describe())
