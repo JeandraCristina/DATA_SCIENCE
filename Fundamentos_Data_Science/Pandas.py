@@ -23,3 +23,5 @@ print("*"*100)
 #Mostra o final até 5 registros
 print(df.tail())#pode inserir um valor
 print("*"*100)
+
+#Mostra informações das colunas e tipos
