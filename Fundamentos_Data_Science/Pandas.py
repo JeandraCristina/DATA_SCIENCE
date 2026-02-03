@@ -39,3 +39,4 @@ print("*"*100)
 #min: Indica o valor mínimo na coluna.
 #25%: Representa o primeiro quartil ou percentil 25% dos valores.
 #50%: É a mediana dos valores na coluna. A mediana é o valor que divide os dados em duas partes iguais.
+#75%: Representa o terceiro quartil ou percentil 75% dos valores.
