@@ -46,3 +46,5 @@ print("*"*100)
 #Pode ser exibido várias colunas.
 print(df['Letras'],df['Hora'])
 print("*"*100)
+
+#Seleciona linha por rótulos de linhas e colunas
