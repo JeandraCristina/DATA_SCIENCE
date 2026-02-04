@@ -81,3 +81,5 @@ print(df)
 
 #Remover as linhas em Nan
 print(df)
+df = df.dropna(how="all")
+print(df)
