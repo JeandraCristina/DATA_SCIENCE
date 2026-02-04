@@ -76,3 +76,5 @@ print(df)
 #Neste caso, estamos usando 'all', o que significa que a coluna será removida somente se
 #todos os seus valores forem nulos (vazios).
 
+df = df.dropna(axis=1, how='all')
+print(df)
