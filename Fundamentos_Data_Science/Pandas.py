@@ -70,3 +70,5 @@ print(df)
 #valores nulos (NaN). Neste caso, queremos remover colunas, então utilizamos axis=1
 #para indicar que a operação será realizada ao longo das colunas.
 #axis=1: É o parâmetro que informa ao método dropna() que queremos remover colunas.
+#O valor 1 indica que a operação será feita ao longo das colunas, enquanto o valor 0 seria
+#utilizado para remover linhas.
