@@ -87,3 +87,6 @@ print(df)
 #Remover uma coluna e criar um novo DataFrame
 #O DataFrame original mantêm a formação
 remove_numeros = df.drop(columns=["Números"])
+print(remove_numeros)
+print(df)
+
