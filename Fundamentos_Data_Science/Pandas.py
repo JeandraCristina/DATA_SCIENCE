@@ -83,3 +83,6 @@ print(df)
 print(df)
 df = df.dropna(how="all")
 print(df)
+
+#Remover uma coluna e criar um novo DataFrame
+#O DataFrame original mantêm a formação
