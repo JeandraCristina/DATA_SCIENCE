@@ -59,3 +59,4 @@ print(df.iloc[2,1])
 print(df.iloc[3])
 
 #MANIPULAÇÃO DE DADOS
+#NaN = Not a Number
