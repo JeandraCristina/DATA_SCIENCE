@@ -73,3 +73,6 @@ print(df)
 #O valor 1 indica que a operação será feita ao longo das colunas, enquanto o valor 0 seria
 #utilizado para remover linhas.
 #how='all': É outro parâmetro do método dropna() que controla como a remoção será feita.
+#Neste caso, estamos usando 'all', o que significa que a coluna será removida somente se
+#todos os seus valores forem nulos (vazios).
+
