@@ -41,6 +41,7 @@ print("*"*100)
 #50%: É a mediana dos valores na coluna. A mediana é o valor que divide os dados em duas partes iguais.
 #75%: Representa o terceiro quartil ou percentil 75% dos valores.
 #max: Indica o valor máximo na coluna "Números".
+
 """
 #Exibição de Colunas
 #Pode ser exibido várias colunas.
@@ -64,3 +65,5 @@ print(df.iloc[3])
 #Remover colunas em NaN
 print(df)
 """
+
+#dropna(): É um método do pandas que é utilizado para remover linhas ou colunas com
