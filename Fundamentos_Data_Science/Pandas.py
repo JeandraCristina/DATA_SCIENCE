@@ -78,3 +78,6 @@ print(df)
 
 df = df.dropna(axis=1, how='all')
 print(df)
+
+#Remover as linhas em Nan
+print(df)
