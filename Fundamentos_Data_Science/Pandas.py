@@ -72,3 +72,4 @@ print(df)
 #axis=1: É o parâmetro que informa ao método dropna() que queremos remover colunas.
 #O valor 1 indica que a operação será feita ao longo das colunas, enquanto o valor 0 seria
 #utilizado para remover linhas.
+#how='all': É outro parâmetro do método dropna() que controla como a remoção será feita.
