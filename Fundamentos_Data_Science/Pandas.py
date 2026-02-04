@@ -52,3 +52,5 @@ print(df.loc[5,["Letras"]])
 print(df.loc[2,["Letras"]])
 print(df.loc[6])
 print(df)
+
+#Seleciona linha por índice de linhas e de colunas
