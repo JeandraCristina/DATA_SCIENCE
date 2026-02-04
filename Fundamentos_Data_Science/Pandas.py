@@ -54,3 +54,4 @@ print(df.loc[6])
 print(df)
 
 #Seleciona linha por índice de linhas e de colunas
+print(df.iloc[1,0])
