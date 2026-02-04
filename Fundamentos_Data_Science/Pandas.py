@@ -57,3 +57,5 @@ print(df)
 print(df.iloc[1,0])
 print(df.iloc[2,1])
 print(df.iloc[3])
+
+#MANIPULAÇÃO DE DADOS
