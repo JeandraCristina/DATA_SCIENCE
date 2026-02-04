@@ -60,3 +60,5 @@ print(df.iloc[3])
 
 #MANIPULAÇÃO DE DADOS
 #NaN = Not a Number
+
+#Remover colunas em NaN
