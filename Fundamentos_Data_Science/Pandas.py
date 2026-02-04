@@ -67,3 +67,4 @@ print(df)
 """
 
 #dropna(): É um método do pandas que é utilizado para remover linhas ou colunas com
+#valores nulos (NaN). Neste caso, queremos remover colunas, então utilizamos axis=1
