@@ -103,3 +103,5 @@ print(df.info())
 #df['Nome_da_Coluna'] = df['Nome_da_Coluna'].astype(int)
 #df['Nome_da_Coluna'] = df['Nome_da_Coluna'].astype(float)
 #df['Nome_da_Coluna'] = df['Nome_da_Coluna'].astype(str)
+
+df["Datas"] = pd.to_datetime(df["Datas"],format='%d/%m/%Y')
