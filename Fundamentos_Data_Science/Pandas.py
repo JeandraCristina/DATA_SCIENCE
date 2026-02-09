@@ -121,4 +121,4 @@ TodasColunas = {
     "Datas":"datas",
     "Valor":"valores",
     "Hora":"horas"
-    
+}    
