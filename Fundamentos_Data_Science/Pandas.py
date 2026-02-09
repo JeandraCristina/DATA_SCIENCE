@@ -99,3 +99,4 @@ print(df)
 print(df.describe())
 print(df.info())
 
+#Alterando o tipo de dados da coluna
