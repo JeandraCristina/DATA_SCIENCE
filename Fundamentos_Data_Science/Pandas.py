@@ -105,3 +105,4 @@ print(df.info())
 #df['Nome_da_Coluna'] = df['Nome_da_Coluna'].astype(str)
 
 df["Datas"] = pd.to_datetime(df["Datas"],format='%d/%m/%Y')
+df["Hora"] = pd.to_datetime(df["Hora"],format='%H:%M:%S')
