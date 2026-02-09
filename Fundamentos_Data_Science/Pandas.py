@@ -95,3 +95,7 @@ print(df)
 #df.columns = df.iloc[0]
 #df = df.iloc[1:].reset_index(drop=True)
 #print(df)
+
+print(df.describe())
+print(df.info())
+
