@@ -112,3 +112,4 @@ print(df.info())
 
 #Renomeando uma Coluna
 df_NovoNomeColuna = df.rename(columns={"Números":"Numeros"})
+print(df_NovoNomeColuna)
