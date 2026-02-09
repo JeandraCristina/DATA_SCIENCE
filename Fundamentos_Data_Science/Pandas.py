@@ -120,4 +120,5 @@ TodasColunas = {
     "Letras":"letras",
     "Datas":"datas",
     "Valor":"valores",
+    "Hora":"horas"
     
