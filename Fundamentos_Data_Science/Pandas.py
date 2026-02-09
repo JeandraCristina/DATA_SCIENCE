@@ -94,3 +94,4 @@ print(df)
 # Define a primeira linha como cabeçalho e recria o DataFrame com o novo cabeçalho
 #df.columns = df.iloc[0]
 #df = df.iloc[1:].reset_index(drop=True)
+#print(df)
