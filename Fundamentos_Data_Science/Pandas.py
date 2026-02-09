@@ -111,3 +111,4 @@ df["Números"] = df["Números"].astype("float32")
 print(df.info())
 
 #Renomeando uma Coluna
+df_NovoNomeColuna = df.rename(columns={"Números":"Numeros"})
