@@ -116,3 +116,5 @@ print(df_NovoNomeColuna)
 
 #Renomeando várias colunas
 TodasColunas = {
+    "Números":"numeros",
+    
