@@ -118,3 +118,4 @@ print(df_NovoNomeColuna)
 TodasColunas = {
     "Números":"numeros",
     "Letras":"letras",
+    "Datas":"datas",
