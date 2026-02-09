@@ -101,3 +101,4 @@ print(df.info())
 
 #Alterando o tipo de dados da coluna
 #df['Nome_da_Coluna'] = df['Nome_da_Coluna'].astype(int)
+#df['Nome_da_Coluna'] = df['Nome_da_Coluna'].astype(float)
