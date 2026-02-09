@@ -119,3 +119,5 @@ TodasColunas = {
     "Números":"numeros",
     "Letras":"letras",
     "Datas":"datas",
+    "Valor":"valores",
+    
