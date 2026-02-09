@@ -92,3 +92,4 @@ print(df)
 
 # Supondo que você já tenha o DataFrame df carregado e a primeira linha contendo os nomes das colunas
 # Define a primeira linha como cabeçalho e recria o DataFrame com o novo cabeçalho
+#df.columns = df.iloc[0]
