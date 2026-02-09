@@ -109,3 +109,5 @@ df["Hora"] = pd.to_datetime(df["Hora"],format='%H:%M:%S')
 df["Letras"] = df["Letras"].astype(str)
 df["Números"] = df["Números"].astype("float32")
 print(df.info())
+
+#Renomeando uma Coluna
