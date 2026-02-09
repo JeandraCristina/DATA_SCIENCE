@@ -90,3 +90,4 @@ remove_numeros = df.drop(columns=["Números"])
 print(remove_numeros)
 print(df)
 
+# Supondo que você já tenha o DataFrame df carregado e a primeira linha contendo os nomes das colunas
