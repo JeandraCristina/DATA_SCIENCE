@@ -115,3 +115,4 @@ df_NovoNomeColuna = df.rename(columns={"Números":"Numeros"})
 print(df_NovoNomeColuna)
 
 #Renomeando várias colunas
+TodasColunas = {
