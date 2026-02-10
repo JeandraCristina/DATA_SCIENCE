@@ -138,4 +138,5 @@ df_NovoNomeColunas.to_excel('DadosLimpos.xlsx')
 
 #Classificar Banco de Dados
 Classificar_Letras = df.sort_values(by="Letras", ascending=True)
-print(Classificar_Letras)    
+print(Classificar_Letras)
+Classificar_Numeros = df.sort_values(by="Números", ascending=True)    
