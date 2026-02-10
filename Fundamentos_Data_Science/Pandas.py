@@ -124,4 +124,7 @@ TodasColunas = {
 }
 df_NovoNomeColunas = df.rename(columns=TodasColunas)
 #df.rename(columns=TodasColunas, inplace=True)
-print(df_NovoNomeColunas)    
+print(df_NovoNomeColunas)
+print(df)
+
+    
