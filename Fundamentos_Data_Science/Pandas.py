@@ -146,5 +146,6 @@ print(Classificar_Varios)
 
 #FILTRAR DADOS
 """
+#Indexação booleana:
 
 """    
