@@ -121,4 +121,5 @@ TodasColunas = {
     "Datas":"datas",
     "Valor":"valores",
     "Hora":"horas"
-}    
+}
+df_NovoNomeColunas = df.rename(columns=TodasColunas)    
