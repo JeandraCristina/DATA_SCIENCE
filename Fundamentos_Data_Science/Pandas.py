@@ -145,4 +145,6 @@ Classificar_Varios = df.sort_values(by=["Letras","Números"], ascending=[True, F
 print(Classificar_Varios)
 
 #FILTRAR DADOS
+"""
+
 """    
