@@ -122,4 +122,5 @@ TodasColunas = {
     "Valor":"valores",
     "Hora":"horas"
 }
-df_NovoNomeColunas = df.rename(columns=TodasColunas)    
+df_NovoNomeColunas = df.rename(columns=TodasColunas)
+#df.rename(columns=TodasColunas, inplace=True)    
