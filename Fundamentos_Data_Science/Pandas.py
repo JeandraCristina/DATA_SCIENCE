@@ -128,4 +128,6 @@ print(df_NovoNomeColunas)
 print(df)
 
 #SALVANDO O BANCO DE DADOS LIMPO
-df_NovoNomeColunas.to_excel('DadosLimpos.xlsx')    
+df_NovoNomeColunas.to_excel('DadosLimpos.xlsx')
+
+#Remover Caracteres existentes em dados dos registros    
