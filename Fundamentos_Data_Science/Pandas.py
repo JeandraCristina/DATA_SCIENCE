@@ -130,4 +130,5 @@ print(df)
 #SALVANDO O BANCO DE DADOS LIMPO
 df_NovoNomeColunas.to_excel('DadosLimpos.xlsx')
 
-#Remover Caracteres existentes em dados dos registros    
+#Remover Caracteres existentes em dados dos registros
+# Remover o caractere "@" no início dos registros da coluna "Nome_da_Coluna"    
