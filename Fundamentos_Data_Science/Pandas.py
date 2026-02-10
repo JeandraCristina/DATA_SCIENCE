@@ -136,4 +136,5 @@ df_NovoNomeColunas.to_excel('DadosLimpos.xlsx')
 # Remover o caractere "#" no final dos registros da coluna "Nome_da_Coluna"
 #   df['Nome_da_Coluna'] = df['Nome_da_Coluna'].str.replace('#$', '')
 
-#Classificar Banco de Dados    
+#Classificar Banco de Dados
+Classificar_Letras = df.sort_values(by="Letras", ascending=True)    
