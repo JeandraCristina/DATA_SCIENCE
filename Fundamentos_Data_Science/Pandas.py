@@ -147,5 +147,6 @@ print(Classificar_Varios)
 #FILTRAR DADOS
 """
 #Indexação booleana:
+#A indexação booleana é uma forma simples e poderosa
 
 """    
