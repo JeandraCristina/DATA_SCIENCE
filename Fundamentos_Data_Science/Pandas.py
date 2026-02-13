@@ -160,4 +160,6 @@ print(Classificar_Varios)
 
 """  
 
-Filtrar_Letra = df.query('Letras == "b"')  
+Filtrar_Letra = df.query('Letras == "b"')
+print(Filtrar_Letra)
+  
