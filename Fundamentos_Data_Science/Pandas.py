@@ -152,5 +152,6 @@ print(Classificar_Varios)
 #Você cria uma condição booleana usando operadores de comparação
 #(como ==, >, <, >=, <=, !=, etc.) e, em seguida, aplica essa condição ao DataFrame.
 #df_filtrado = df[df['idade'] > 30]
+#Método query():
 
 """    
