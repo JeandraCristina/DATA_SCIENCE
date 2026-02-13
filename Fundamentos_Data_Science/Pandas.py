@@ -150,5 +150,6 @@ print(Classificar_Varios)
 #A indexação booleana é uma forma simples e poderosa
 #de filtrar os dados com base em condições específicas.
 #Você cria uma condição booleana usando operadores de comparação
+#(como ==, >, <, >=, <=, !=, etc.) e, em seguida, aplica essa condição ao 
 
 """    
