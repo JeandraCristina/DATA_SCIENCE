@@ -154,5 +154,6 @@ print(Classificar_Varios)
 #df_filtrado = df[df['idade'] > 30]
 #Método query():
 #O método query() permite filtrar os dados usando uma string de consulta
+#(similar a uma expressão SQL). A vantagem é que você pode escrever a condição
 
 """    
