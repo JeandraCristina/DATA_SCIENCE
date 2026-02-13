@@ -183,4 +183,6 @@ data_fim = '2023-07-22'
 df_filtrado_intervalo_datas = df[(df['Datas'] >= data_inicio) & (df['Datas'] <= data_fim)]
 print(df_filtrado_intervalo_datas)
 
-#FUNÇÕES DO PANDAS  
+#FUNÇÕES DO PANDAS
+#FUNÇÕES BÁSICAS
+  
