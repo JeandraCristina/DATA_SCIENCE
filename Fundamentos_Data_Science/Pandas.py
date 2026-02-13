@@ -170,4 +170,6 @@ Filtrar_Multiplos_and = df.query('Letras == "b" and Números >= 15')
 print(Filtrar_Multiplos_and)
 
 Filtrar_Multiplos_or = df.query('Letras == "b" or Números < 9')
-print(Filtrar_Multiplos_or)  
+print(Filtrar_Multiplos_or)
+
+# Filtrar apenas as linhas com a data específica '2023-07-19'  
