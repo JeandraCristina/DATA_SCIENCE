@@ -158,4 +158,6 @@ print(Classificar_Varios)
 #de filtragem como uma string, o que pode ser útil para filtragens mais complexas.
 #df_filtrado = df.query('idade > 30')
 
-"""    
+"""  
+
+Filtrar_Letra = df.query('Letras == "b"')  
