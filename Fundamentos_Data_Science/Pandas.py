@@ -153,5 +153,6 @@ print(Classificar_Varios)
 #(como ==, >, <, >=, <=, !=, etc.) e, em seguida, aplica essa condição ao DataFrame.
 #df_filtrado = df[df['idade'] > 30]
 #Método query():
+#O método query() permite filtrar os dados usando uma string de consulta
 
 """    
