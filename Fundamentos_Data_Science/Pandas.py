@@ -163,4 +163,6 @@ print(Classificar_Varios)
 Filtrar_Letra = df.query('Letras == "b"')
 print(Filtrar_Letra)
 
-Filtra_Número = df.query('Números >= 15')  
+Filtra_Número = df.query('Números >= 15')
+print(Filtra_Número)
+  
