@@ -177,4 +177,5 @@ data_especifica = '2023-07-19'
 df_filtrado_data_especifica = df[df['Datas'] == data_especifica]
 print(df_filtrado_data_especifica)
 
-# Filtrar apenas as linhas com datas dentro do intervalo de '2023-07-20' a '2023-07-22'  
+# Filtrar apenas as linhas com datas dentro do intervalo de '2023-07-20' a '2023-07-22'
+data_inicio = '2023-07-20'  
