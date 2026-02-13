@@ -166,4 +166,5 @@ print(Filtrar_Letra)
 Filtra_Número = df.query('Números >= 15')
 print(Filtra_Número)
 
-Filtrar_Multiplos_and = df.query('Letras == "b" and Números >= 15')  
+Filtrar_Multiplos_and = df.query('Letras == "b" and Números >= 15')
+print(Filtrar_Multiplos_and)  
