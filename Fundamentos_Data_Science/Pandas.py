@@ -181,4 +181,6 @@ print(df_filtrado_data_especifica)
 data_inicio = '2023-07-20'
 data_fim = '2023-07-22'
 df_filtrado_intervalo_datas = df[(df['Datas'] >= data_inicio) & (df['Datas'] <= data_fim)]
-print(df_filtrado_intervalo_datas)  
+print(df_filtrado_intervalo_datas)
+
+#FUNÇÕES DO PANDAS  
