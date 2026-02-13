@@ -174,4 +174,6 @@ print(Filtrar_Multiplos_or)
 
 # Filtrar apenas as linhas com a data específica '2023-07-19'
 data_especifica = '2023-07-19'
-df_filtrado_data_especifica = df[df['Datas'] == data_especifica]  
+df_filtrado_data_especifica = df[df['Datas'] == data_especifica]
+print(df_filtrado_data_especifica)
+  
