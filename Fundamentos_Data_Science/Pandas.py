@@ -210,4 +210,5 @@ df['Ano'] = df['Datas'].dt.year
 df['Mes'] = df['Datas'].dt.month
 df['Dia'] = df['Datas'].dt.day
 
-# Extrair os componentes de hora (hora, minuto, segundo)  
+# Extrair os componentes de hora (hora, minuto, segundo)
+df['Hora'] = pd.to_datetime(df['Hora'])  # Se 'Hora' não  
