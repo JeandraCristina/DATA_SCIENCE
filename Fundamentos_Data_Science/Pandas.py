@@ -232,4 +232,5 @@ print(df)
 
 #Semelhante ao SumIf
 SomaSe_b = df.loc[df["Letras"]=="b","Valor"].sum()
+print(SomaSe_b)
                                     
