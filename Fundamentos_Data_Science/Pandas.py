@@ -198,4 +198,4 @@ print("A mediana é: ",Mediana)
 Máximo = df["Valor"].max()
 print("O maior valor é: ",Máximo)
 
-  
+Mínimo = df["Valor"].min()  
