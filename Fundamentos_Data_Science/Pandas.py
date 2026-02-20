@@ -237,4 +237,5 @@ print(SomaSe_b)
 SomaSe_c = df.loc[df["Letras"]=="c","Valor"].sum()
 print(SomaSe_c)
 
+#Semelhante ao CountIf
                                     
