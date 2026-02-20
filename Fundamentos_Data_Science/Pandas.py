@@ -231,4 +231,5 @@ df['status2'] = ['Valor Menor' if x < 130 else 'Valor Igual ou Acima' for x in d
 print(df)
 
 #Semelhante ao SumIf
+SomaSe_b = df.loc[df["Letras"]=="b","Valor"].sum()
                                     
