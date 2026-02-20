@@ -238,4 +238,5 @@ SomaSe_c = df.loc[df["Letras"]=="c","Valor"].sum()
 print(SomaSe_c)
 
 #Semelhante ao CountIf
+ContSe_140 = len(df[df['Valor']>140])
                                     
