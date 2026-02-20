@@ -242,4 +242,5 @@ ContSe_140 = len(df[df['Valor']>140])
 print(ContSe_140)
 
 ContSe_a = len(df[df['Letras']=='a'])
+print(ContSe_a)
                                     
