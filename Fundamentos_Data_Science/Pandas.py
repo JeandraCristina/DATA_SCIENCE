@@ -186,4 +186,5 @@ print(df_filtrado_intervalo_datas)
 #FUNÇÕES DO PANDAS
 #FUNÇÕES BÁSICAS
 
-Soma = df["Valor"].sum()  
+Soma = df["Valor"].sum()
+print("A soma é: ",Soma)  
