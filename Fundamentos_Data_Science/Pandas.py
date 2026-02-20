@@ -225,4 +225,5 @@ print(df)
 #Função Lógica
 # Usando apply() e lambda para aplicar lógica condicional semelhante ao if
 df['status1'] = df['Valor'].apply(lambda x: 'Valor Igual ou Acima' if x >= 130 else 'Valor Menor')
+print(df)
                                     
