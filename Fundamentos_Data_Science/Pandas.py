@@ -192,4 +192,5 @@ print("A soma é: ",Soma)
 Média = df["Valor"].mean()
 print("A média é: ",Média)
 
+Mediana = df["Valor"].median()
   
