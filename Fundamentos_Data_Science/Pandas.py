@@ -189,4 +189,7 @@ print(df_filtrado_intervalo_datas)
 Soma = df["Valor"].sum()
 print("A soma é: ",Soma)
 
-Média = df["Valor"].mean()  
+Média = df["Valor"].mean()
+print("A média é: ",Média)
+
+  
