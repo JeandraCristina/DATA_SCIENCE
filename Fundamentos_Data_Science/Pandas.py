@@ -222,4 +222,4 @@ print(df.info())
 # Mostrar o DataFrame completo
 print(df)
 
-  
+#Função Lógica  
