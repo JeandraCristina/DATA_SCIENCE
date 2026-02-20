@@ -213,4 +213,5 @@ df['Dia'] = df['Datas'].dt.day
 # Extrair os componentes de hora (hora, minuto, segundo)
 df['Hora'] = pd.to_datetime(df['Hora'])  # Se 'Hora' não estiver em formato datetime, converta primeiro
 df['Hora_do_dia'] = df['Hora'].dt.hour
-df['Minuto'] = df['Hora'].dt.minute  
+df['Minuto'] = df['Hora'].dt.minute
+df['Segundo'] = df['Hora'].dt.second  
