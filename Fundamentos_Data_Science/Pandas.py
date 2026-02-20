@@ -204,4 +204,5 @@ print("A mediana é: ",Mínimo)
 Contagem = df["Valor"].count()
 print("O total de números é: ",Contagem)
 
-#Funções de Data/Hora  
+#Funções de Data/Hora
+# Extrair os componentes de data (ano, mês, dia)  
