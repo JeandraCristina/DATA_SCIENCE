@@ -193,4 +193,7 @@ Média = df["Valor"].mean()
 print("A média é: ",Média)
 
 Mediana = df["Valor"].median()
-print("A mediana é: ",Mediana)  
+print("A mediana é: ",Mediana)
+
+Máximo = df["Valor"].max()
+  
