@@ -228,4 +228,5 @@ df['status1'] = df['Valor'].apply(lambda x: 'Valor Igual ou Acima' if x >= 130 e
 print(df)
 
 df['status2'] = ['Valor Menor' if x < 130 else 'Valor Igual ou Acima' for x in df['Valor']]
+print(df)
                                     
