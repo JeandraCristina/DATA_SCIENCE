@@ -245,4 +245,5 @@ ContSe_a = len(df[df['Letras']=='a'])
 print(ContSe_a)
 
 # RELATÓRIOS
+# Pivot Table
                                     
