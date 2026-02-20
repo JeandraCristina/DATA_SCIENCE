@@ -205,4 +205,5 @@ Contagem = df["Valor"].count()
 print("O total de números é: ",Contagem)
 
 #Funções de Data/Hora
-# Extrair os componentes de data (ano, mês, dia)  
+# Extrair os componentes de data (ano, mês, dia)
+df['Ano'] = df['Datas'].dt.year  
