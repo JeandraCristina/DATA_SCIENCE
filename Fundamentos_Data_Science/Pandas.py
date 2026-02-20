@@ -201,4 +201,7 @@ print("O maior valor é: ",Máximo)
 Mínimo = df["Valor"].min()
 print("A mediana é: ",Mínimo)
 
-Contagem = df["Valor"].count()  
+Contagem = df["Valor"].count()
+print("O total de números é: ",Contagem)
+
+  
