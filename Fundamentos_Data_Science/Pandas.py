@@ -217,4 +217,6 @@ df['Minuto'] = df['Hora'].dt.minute
 df['Segundo'] = df['Hora'].dt.second
 
 # Mostrar informações do DataFrame
-print(df.info())  
+print(df.info())
+
+# Mostrar o DataFrame completo  
