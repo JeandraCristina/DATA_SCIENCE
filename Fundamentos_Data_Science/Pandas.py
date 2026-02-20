@@ -208,4 +208,6 @@ print("O total de números é: ",Contagem)
 # Extrair os componentes de data (ano, mês, dia)
 df['Ano'] = df['Datas'].dt.year
 df['Mes'] = df['Datas'].dt.month
-df['Dia'] = df['Datas'].dt.day  
+df['Dia'] = df['Datas'].dt.day
+
+# Extrair os componentes de hora (hora, minuto, segundo)  
