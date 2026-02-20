@@ -222,4 +222,5 @@ print(df.info())
 # Mostrar o DataFrame completo
 print(df)
 
-#Função Lógica  
+#Função Lógica
+# Usando apply() e lambda para aplicar lógica condicional semelhante ao if  
