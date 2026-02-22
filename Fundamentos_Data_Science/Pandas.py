@@ -250,4 +250,5 @@ Tabela1 = df.pivot_table(index='Letras', values='Valor', aggfunc='sum')
 print(Tabela1)
 
 Tabela2 = df.pivot_table(index='Letras', values='Valor', aggfunc='mean')
+print(Tabela2)
                                     
