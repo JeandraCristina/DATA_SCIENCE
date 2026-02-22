@@ -267,5 +267,6 @@ with open('relatorio.txt', 'w') as arquivo:
 # Salvar Tabela1 em um arquivo CSV chamado "tabela1.csv"
 Tabela1.to_csv('tabela1.csv', float_format='%.2f')
 
+# Salvar Tabela2 em um arquivo CSV chamado "tabela2.csv"
 
                                     
