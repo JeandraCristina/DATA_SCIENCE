@@ -254,4 +254,6 @@ print(Tabela2)
 
 Tabela3 = df.pivot_table(index='Letras', values='Valor', aggfunc='count')
 print(Tabela3)
+
+# CRIAR UM TEXTO PARA RELATÓRIO
                                     
