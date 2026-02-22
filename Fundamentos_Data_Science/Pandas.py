@@ -257,6 +257,7 @@ print(Tabela3)
 
 # CRIAR UM TEXTO PARA RELATÓRIO
 texto = f"A soma é: {Soma}\nA média é: {Média}\nA mediana é: {Mediana}\nO maior valor é: {Máximo}\nO menor valor é: {Mínimo}\nO total de números é: {Contagem}"
-# Salvar o texto em um arquivo .txt with open('relatorio.txt', 'w') as arquivo:
+# Salvar o texto em um arquivo .txt 
+with open('relatorio.txt', 'w') as arquivo:
 
                                     
