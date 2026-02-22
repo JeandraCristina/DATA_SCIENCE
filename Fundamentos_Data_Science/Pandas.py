@@ -262,4 +262,6 @@ with open('relatorio.txt', 'w') as arquivo:
      arquivo.write(texto)
      print("Relatório salvo em 'relatorio.txt'")
 
+#SALVAR INFORMAÇÕES     
+
                                     
