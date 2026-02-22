@@ -256,4 +256,5 @@ Tabela3 = df.pivot_table(index='Letras', values='Valor', aggfunc='count')
 print(Tabela3)
 
 # CRIAR UM TEXTO PARA RELATÓRIO
+texto = f"A soma é: {Soma}\nA média é: {Média}\nA mediana é: {Mediana}\nO maior
                                     
