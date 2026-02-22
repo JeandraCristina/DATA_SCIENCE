@@ -264,5 +264,6 @@ with open('relatorio.txt', 'w') as arquivo:
 
 #SALVAR INFORMAÇÕES
 # ARQUIVO CSV     
+# Salvar Tabela1 em um arquivo CSV chamado "tabela1.csv"
 
                                     
