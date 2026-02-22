@@ -247,5 +247,5 @@ print(ContSe_a)
 # RELATÓRIOS
 # Pivot Table
 Tabela1 = df.pivot_table(index='Letras', values='Valor', aggfunc='sum')
-
+print(Tabela1)
                                     
