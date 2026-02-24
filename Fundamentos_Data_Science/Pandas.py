@@ -282,5 +282,6 @@ import openpyxl
 Soma = df["Valor"].sum()
 Média = df["Valor"].mean()
 Mediana = df["Valor"].median()
+Máximo = df["Valor"].max()
 
                                     
