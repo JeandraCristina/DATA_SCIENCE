@@ -295,6 +295,7 @@ with open('relatorio.txt', 'w') as arquivo: arquivo.write(texto)
 print("Relatório salvo em 'relatorio.txt'")
 
 # Salvar o relatório em um arquivo Excel (.xlsx)
+wb = openpyxl.Workbook()
 
 
                                     
