@@ -287,5 +287,6 @@ Mínimo = df["Valor"].min()
 Contagem = df["Valor"].count()
 
 # Criar o texto
+texto = f"A soma é: {Soma}\nA média é: {Média}\nA mediana é: {Mediana}\nO maior
 
                                     
