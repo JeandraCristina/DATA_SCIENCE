@@ -292,5 +292,7 @@ texto = f"A soma é: {Soma}\nA média é: {Média}\nA mediana é: {Mediana}\nO m
 # Salvar o texto em um arquivo .txt
 with open('relatorio.txt', 'w') as arquivo: arquivo.write(texto)
 
+print("Relatório salvo em 'relatorio.txt'")
+
 
                                     
