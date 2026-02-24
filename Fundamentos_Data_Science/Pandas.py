@@ -286,4 +286,6 @@ Máximo = df["Valor"].max()
 Mínimo = df["Valor"].min()
 Contagem = df["Valor"].count()
 
+# Criar o texto
+
                                     
