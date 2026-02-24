@@ -278,5 +278,6 @@ Tabela3.to_excel('tabela3.xlsx')
 import openpyxl
 # Supondo que você já tenha o DataFrame df carregado
 
+# Cálculos
 
                                     
