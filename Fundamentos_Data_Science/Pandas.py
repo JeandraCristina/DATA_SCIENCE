@@ -281,5 +281,6 @@ import openpyxl
 # Cálculos
 Soma = df["Valor"].sum()
 Média = df["Valor"].mean()
+Mediana = df["Valor"].median()
 
                                     
