@@ -271,5 +271,7 @@ Tabela1.to_csv('tabela1.csv', float_format='%.2f')
 Tabela2.to_csv('tabela2.csv', float_format='%.2f')
 
 # Salvar Tabela3 em um arquivo Excel chamado "tabela3.xlsx"
+Tabela3.to_excel('tabela3.xlsx')
+"""
 
                                     
