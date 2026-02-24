@@ -279,5 +279,6 @@ import openpyxl
 # Supondo que você já tenha o DataFrame df carregado
 
 # Cálculos
+Soma = df["Valor"].sum()
 
                                     
