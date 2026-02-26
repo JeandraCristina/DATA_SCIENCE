@@ -301,6 +301,7 @@ ws['A1'] = 'Relatório'
 ws['A2'] = "A soma é:"
 ws['B2'] = Soma
 ws['A3'] = "A média é:"
+ws['B3'] = Média
 
 
                                     
