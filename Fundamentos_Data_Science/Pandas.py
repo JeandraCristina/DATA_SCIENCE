@@ -307,6 +307,7 @@ ws['B4'] = Mediana
 ws['A5'] = "O maior valor é:"
 ws['B5'] = Máximo
 ws['A6'] = "O menor valor é:"
+ws['B6'] = Mínimo
 
 
                                     
