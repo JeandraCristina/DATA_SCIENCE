@@ -297,7 +297,7 @@ print("Relatório salvo em 'relatorio.txt'")
 # Salvar o relatório em um arquivo Excel (.xlsx)
 wb = openpyxl.Workbook()
 ws = wb.active
-
+ws['A1'] = 'Relatório'
 
 
                                     
