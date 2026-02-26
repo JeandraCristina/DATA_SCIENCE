@@ -299,6 +299,7 @@ wb = openpyxl.Workbook()
 ws = wb.active
 ws['A1'] = 'Relatório'
 ws['A2'] = "A soma é:"
+ws['B2'] = Soma
 
 
                                     
