@@ -309,6 +309,7 @@ ws['B5'] = Máximo
 ws['A6'] = "O menor valor é:"
 ws['B6'] = Mínimo
 ws['A7'] = "O total de números é:"
+ws['B7'] = Contagem
 
 
                                     
