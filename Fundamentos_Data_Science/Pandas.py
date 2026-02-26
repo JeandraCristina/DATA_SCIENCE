@@ -313,7 +313,6 @@ ws['B7'] = Contagem
 
 wb.save('relatorio.xlsx')
 print("Relatório salvo em 'relatorio.xlsx'")
-"""
 
 
                                     
