@@ -9,3 +9,4 @@ modelos de aprendizado de máquina. Você pode criar modelos que se ajustam a da
 previsões ou classificações com base nesses dados. Ele fornece uma ampla gama de algoritmos e técnicas para isso.
 Regressão: Para problemas de regressão, como prever um valor numérico (por exemplo, prever
 o preço de uma casa com base em suas características), o scikit-learn possui implementações
+de vários algoritmos de regressão, como regressão linear, regressão polinomial e mais.
