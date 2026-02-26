@@ -311,5 +311,7 @@ ws['B6'] = Mínimo
 ws['A7'] = "O total de números é:"
 ws['B7'] = Contagem
 
+wb.save('relatorio.xlsx')
+
 
                                     
