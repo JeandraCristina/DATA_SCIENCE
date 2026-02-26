@@ -303,6 +303,8 @@ ws['B2'] = Soma
 ws['A3'] = "A média é:"
 ws['B3'] = Média
 ws['A4'] = "A mediana é:"
+ws['B4'] = Mediana
+ws['A5'] = "O maior valor é:"
 
 
                                     
