@@ -15,3 +15,5 @@ Classificação: Para problemas de classificação, em que você quer categoriza
 máquinas de suporte vetorial (SVM), árvores de decisão, k-vizinhos mais próximos (k-NN), entre outros.
 Clusterização: O scikit-learn também permite realizar tarefas de clusterização, 
 onde você agrupa dados sem rótulos em clusters com base em suas similaridades.
+O algoritmo K-Means é um exemplo popular para isso, mas existem outros algoritmos de 
+clusterização disponíveis.
