@@ -36,3 +36,4 @@ A máquina usa a regra mágica para "adivinhar" o preço da casa com base no tam
 E voilà! Você tem uma previsão do preço da casa.
 Mas como saber se a máquina é boa em adivinhar?
 É aí que entra a parte legal. Você tem algumas casas que não mostrou para a máquina antes,
+como uma surpresa. Você pede para a máquina adivinhar o preço delas e compara com o preço real.
