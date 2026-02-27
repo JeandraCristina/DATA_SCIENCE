@@ -32,3 +32,5 @@ A regra mágica que a máquina vai aprender é uma linha que ajuda a conectar os
 Cada ponto é como uma dica para a máquina. Ela vai tentar traçar uma linha que esteja perto dos
 pontos para fazer suas previsões.
 Agora, você pega uma casa nova, mede o tamanho dela e coloca esse número na máquina.
+A máquina usa a regra mágica para "adivinhar" o preço da casa com base no tamanho.
+E voilà! Você tem uma previsão do preço da casa.
