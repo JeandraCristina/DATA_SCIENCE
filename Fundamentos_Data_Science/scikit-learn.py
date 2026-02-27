@@ -28,3 +28,4 @@ Para resolver esse mistério, você vai usar uma "máquina de adivinhar" especia
 Essa máquina vai olhar para todos os tamanhos de casas que você tem e os preços delas.
 Depois de olhar para muitos exemplos, a máquina vai aprender uma regra mágica que vai ajudar
 a prever o preço de qualquer casa só olhando para o tamanho dela.
+A regra mágica que a máquina vai aprender é uma linha que ajuda a conectar os pontos.
