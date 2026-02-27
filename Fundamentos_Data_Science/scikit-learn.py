@@ -12,3 +12,4 @@ o preço de uma casa com base em suas características), o scikit-learn possui i
 de vários algoritmos de regressão, como regressão linear, regressão polinomial e mais.
 Classificação: Para problemas de classificação, em que você quer categorizar dados em classes
 (por exemplo, classificar e-mails como spam ou não spam), o scikit-learn oferece algoritmos como
+máquinas de suporte vetorial (SVM), árvores de decisão, k-vizinhos mais próximos (k-NN), entre outros.
