@@ -41,3 +41,5 @@ Se a máquina acertar muitas vezes, é um sinal de que ela está fazendo um bom 
 E isso, criança, é como o scikit-learn ajuda a resolver mistérios de previsão.
 Ele é como um detetive mágico que aprende com exemplos e faz adivinhações usando regras especiais.
 Legal, né? Agora você tem uma ideia de como usar o scikit-learn para fazer previsões de preços
+de casas com base em seus tamanhos!
+"""
