@@ -17,3 +17,5 @@ Clusterização: O scikit-learn também permite realizar tarefas de clusterizaç
 onde você agrupa dados sem rótulos em clusters com base em suas similaridades.
 O algoritmo K-Means é um exemplo popular para isso, mas existem outros algoritmos de 
 clusterização disponíveis.
+
+EXEMPLO CHATGPT ;-)
