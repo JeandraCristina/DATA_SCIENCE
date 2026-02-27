@@ -14,3 +14,4 @@ Classificação: Para problemas de classificação, em que você quer categoriza
 (por exemplo, classificar e-mails como spam ou não spam), o scikit-learn oferece algoritmos como
 máquinas de suporte vetorial (SVM), árvores de decisão, k-vizinhos mais próximos (k-NN), entre outros.
 Clusterização: O scikit-learn também permite realizar tarefas de clusterização, 
+onde você agrupa dados sem rótulos em clusters com base em suas similaridades.
