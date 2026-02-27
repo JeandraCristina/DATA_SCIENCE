@@ -29,3 +29,5 @@ Essa máquina vai olhar para todos os tamanhos de casas que você tem e os preç
 Depois de olhar para muitos exemplos, a máquina vai aprender uma regra mágica que vai ajudar
 a prever o preço de qualquer casa só olhando para o tamanho dela.
 A regra mágica que a máquina vai aprender é uma linha que ajuda a conectar os pontos.
+Cada ponto é como uma dica para a máquina. Ela vai tentar traçar uma linha que esteja perto dos
+pontos para fazer suas previsões.
