@@ -13,3 +13,4 @@ de vários algoritmos de regressão, como regressão linear, regressão polinomi
 Classificação: Para problemas de classificação, em que você quer categorizar dados em classes
 (por exemplo, classificar e-mails como spam ou não spam), o scikit-learn oferece algoritmos como
 máquinas de suporte vetorial (SVM), árvores de decisão, k-vizinhos mais próximos (k-NN), entre outros.
+Clusterização: O scikit-learn também permite realizar tarefas de clusterização, 
