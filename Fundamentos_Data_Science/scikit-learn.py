@@ -23,3 +23,4 @@ EXEMPLO CHATGPT ;-)
 REGRESSÃO
 Imagine que você é um detetive que gosta muito de resolver mistérios.
 Hoje, você tem uma lista de casas com tamanhos diferentes e seus respectivos preços de venda.
+Você quer descobrir se existe um jeito de prever o preço de uma casa com base no seu tamanho.
