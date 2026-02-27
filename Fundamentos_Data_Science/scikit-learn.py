@@ -25,3 +25,4 @@ Imagine que você é um detetive que gosta muito de resolver mistérios.
 Hoje, você tem uma lista de casas com tamanhos diferentes e seus respectivos preços de venda.
 Você quer descobrir se existe um jeito de prever o preço de uma casa com base no seu tamanho.
 Para resolver esse mistério, você vai usar uma "máquina de adivinhar" especial chamada "scikit-learn".
+Essa máquina vai olhar para todos os tamanhos de casas que você tem e os preços delas.
