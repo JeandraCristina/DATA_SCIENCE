@@ -21,3 +21,4 @@ clusterização disponíveis.
 EXEMPLO CHATGPT ;-)
 
 REGRESSÃO
+Imagine que você é um detetive que gosta muito de resolver mistérios.
