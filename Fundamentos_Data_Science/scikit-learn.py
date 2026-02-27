@@ -10,3 +10,4 @@ previsões ou classificações com base nesses dados. Ele fornece uma ampla gama
 Regressão: Para problemas de regressão, como prever um valor numérico (por exemplo, prever
 o preço de uma casa com base em suas características), o scikit-learn possui implementações
 de vários algoritmos de regressão, como regressão linear, regressão polinomial e mais.
+Classificação: Para problemas de classificação, em que você quer categorizar dados em classes
