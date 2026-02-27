@@ -19,3 +19,5 @@ O algoritmo K-Means é um exemplo popular para isso, mas existem outros algoritm
 clusterização disponíveis.
 
 EXEMPLO CHATGPT ;-)
+
+REGRESSÃO
