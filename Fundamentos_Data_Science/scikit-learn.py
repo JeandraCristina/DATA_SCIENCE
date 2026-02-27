@@ -26,3 +26,4 @@ Hoje, você tem uma lista de casas com tamanhos diferentes e seus respectivos pr
 Você quer descobrir se existe um jeito de prever o preço de uma casa com base no seu tamanho.
 Para resolver esse mistério, você vai usar uma "máquina de adivinhar" especial chamada "scikit-learn".
 Essa máquina vai olhar para todos os tamanhos de casas que você tem e os preços delas.
+Depois de olhar para muitos exemplos, a máquina vai aprender uma regra mágica que vai ajudar
