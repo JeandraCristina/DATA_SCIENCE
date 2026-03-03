@@ -99,4 +99,5 @@ e usaram como pistas para treinar a máquina. Eles separaram algumas flores para
 e outras para testar suas habilidades mágicas.
 A máquina mágica, chamada de "K-Nearest Neighbors" (Vizinhos Mais Próximos),
 ficou muito curiosa para aprender sobre as flores. Ela olhou atentamente para
+as pistas mágicas e aprendeu a diferenciar as características das flores de cada tipo.
 
