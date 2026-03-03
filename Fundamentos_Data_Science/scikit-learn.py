@@ -93,4 +93,5 @@ reconhecer cada tipo de flor só olhando para elas.
 Primeiro, eles trouxeram uma ferramenta mágica chamada "scikit-learn" do seu baú de tesouros.
 Essa ferramenta tinha um feitiço muito poderoso que podia ensinar uma máquina a
 fazer previsões mágicas. Eles também tinham um conjunto mágico de flores chamado "Iris"
+que continha informações sobre o tamanho das pétalas e sépalas de cada flor, além do seu tipo.
 
