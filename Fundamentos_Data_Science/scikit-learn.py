@@ -43,3 +43,5 @@ Ele é como um detetive mágico que aprende com exemplos e faz adivinhações us
 Legal, né? Agora você tem uma ideia de como usar o scikit-learn para fazer previsões de preços
 de casas com base em seus tamanhos!
 """
+
+# Primeiro, precisamos importar a biblioteca mágica chamada scikit-learn
