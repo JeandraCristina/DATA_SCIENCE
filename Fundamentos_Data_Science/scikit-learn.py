@@ -72,3 +72,4 @@ print(f"A máquina adivinha que o preço da casa é aproximadamente {preco_adivi
 tamanhos_surpresa = [[180]]  # Tamanho da casa surpresa
 
 # Pedimos para a máquina adivinhar o preço da casa surpresa
+precos_adivinhados_surpresa = maquina.predict(tamanhos_surpresa)
