@@ -98,5 +98,5 @@ Os cientistas pegaram as informações sobre os tamanhos das pétalas e sépalas
 e usaram como pistas para treinar a máquina. Eles separaram algumas flores para treiná-la
 e outras para testar suas habilidades mágicas.
 A máquina mágica, chamada de "K-Nearest Neighbors" (Vizinhos Mais Próximos),
-
+ficou muito curiosa para aprender sobre as flores. Ela olhou atentamente para
 
