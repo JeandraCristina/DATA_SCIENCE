@@ -69,4 +69,4 @@ preco_adivinhado = maquina.predict(tamanho_nova_casa)
 print(f"A máquina adivinha que o preço da casa é aproximadamente {preco_adivinhado[0]:.2f} moedas mágicas!")
 
 # Agora, a parte divertida: vamos testar se a máquina é boa em adivinhar. Temos uma casa surpresa!
-
+tamanhos_surpresa = [[180]]  # Tamanho da casa surpresa
