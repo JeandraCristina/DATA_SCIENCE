@@ -52,3 +52,4 @@ tamanhos = [[80], [100], [120], [150], [200]]  # Tamanhos das casas (em metros q
 precos = [150000, 200000, 230000, 280000, 350000]  # Preços das casas (em moedas mágicas)
 
 # A próxima coisa é ensinar nossa máquina mágica (scikit-learn) sobre essas casas
+maquina = LinearRegression()  # Criamos nossa máquina de regressão mágica
