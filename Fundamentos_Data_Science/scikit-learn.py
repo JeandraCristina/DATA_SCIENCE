@@ -79,3 +79,5 @@ preco_real_surpresa = 320000  # Preço real da casa surpresa (em moedas mágicas
 erro = preco_real_surpresa - precos_adivinhados_surpresa[0]  # Calculamos o erro mágico
 
 # Vamos ver o que aconteceu!
+print(f"A máquina adivinhou um preço de {precos_adivinhados_surpresa[0]:.2f} moedas mágicas para a casa surpresa.")
+
