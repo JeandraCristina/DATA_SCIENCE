@@ -77,3 +77,5 @@ precos_adivinhados_surpresa = maquina.predict(tamanhos_surpresa)
 # Agora, nós, os detetives, comparamos a adivinhação da máquina com o preço real da casa surpresa
 preco_real_surpresa = 320000  # Preço real da casa surpresa (em moedas mágicas)
 erro = preco_real_surpresa - precos_adivinhados_surpresa[0]  # Calculamos o erro mágico
+
+# Vamos ver o que aconteceu!
