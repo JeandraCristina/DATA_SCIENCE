@@ -75,4 +75,4 @@ tamanhos_surpresa = [[180]]  # Tamanho da casa surpresa
 precos_adivinhados_surpresa = maquina.predict(tamanhos_surpresa)
 
 # Agora, nós, os detetives, comparamos a adivinhação da máquina com o preço real da casa surpresa
-
+preco_real_surpresa = 320000  # Preço real da casa surpresa (em moedas mágicas)
