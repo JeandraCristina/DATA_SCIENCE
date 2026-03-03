@@ -95,4 +95,7 @@ Essa ferramenta tinha um feitiço muito poderoso que podia ensinar uma máquina 
 fazer previsões mágicas. Eles também tinham um conjunto mágico de flores chamado "Iris"
 que continha informações sobre o tamanho das pétalas e sépalas de cada flor, além do seu tipo.
 Os cientistas pegaram as informações sobre os tamanhos das pétalas e sépalas das flores
+e usaram como pistas para treinar a máquina. Eles separaram algumas flores para treiná-la
+e outras para testar suas habilidades mágicas.
+
 
