@@ -48,4 +48,4 @@ de casas com base em seus tamanhos!
 from sklearn.linear_model import LinearRegression
 
 # Agora, vamos criar nossa lista de tamanhos de casas (características) e os preços delas (alvos)
-
+tamanhos = [[80], [100], [120], [150], [200]]  # Tamanhos das casas (em metros quadrados)
