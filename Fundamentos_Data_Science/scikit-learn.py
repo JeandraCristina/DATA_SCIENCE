@@ -73,3 +73,6 @@ tamanhos_surpresa = [[180]]  # Tamanho da casa surpresa
 
 # Pedimos para a máquina adivinhar o preço da casa surpresa
 precos_adivinhados_surpresa = maquina.predict(tamanhos_surpresa)
+
+# Agora, nós, os detetives, comparamos a adivinhação da máquina com o preço real da casa surpresa
+
