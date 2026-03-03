@@ -53,3 +53,6 @@ precos = [150000, 200000, 230000, 280000, 350000]  # Preços das casas (em moeda
 
 # A próxima coisa é ensinar nossa máquina mágica (scikit-learn) sobre essas casas
 maquina = LinearRegression()  # Criamos nossa máquina de regressão mágica
+
+# Agora, mostramos para a máquina os tamanhos das casas e os preços delas, como se fossem pistas
+
