@@ -70,3 +70,5 @@ print(f"A máquina adivinha que o preço da casa é aproximadamente {preco_adivi
 
 # Agora, a parte divertida: vamos testar se a máquina é boa em adivinhar. Temos uma casa surpresa!
 tamanhos_surpresa = [[180]]  # Tamanho da casa surpresa
+
+# Pedimos para a máquina adivinhar o preço da casa surpresa
