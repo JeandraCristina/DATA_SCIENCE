@@ -90,5 +90,6 @@ Nesse jardim, viviam três tipos diferentes de flores: as flores Setosas,
 as flores Versicolor e as flores Virginicas. Um grupo de cientistas,
 apaixonados pela magia da natureza, queria ensinar uma máquina especial a
 reconhecer cada tipo de flor só olhando para elas.
+Primeiro, eles trouxeram uma ferramenta mágica chamada "scikit-learn" do seu baú de tesouros.
 
 
