@@ -105,4 +105,5 @@ só de olhar para o tamanho das pétalas e sépalas.
 Um dia, um pesquisador trouxe uma flor que nunca tinha sido vista antes. 
 Era uma flor desconhecida, com tamanhos mágicos de pétalas e sépalas. Ele pediu à máquina para
 adivinhar o tipo da flor, e a máquina, confiante em seus conhecimentos mágicos, fez uma previsão.
+Ela disse: "A flor é do tipo X!" E todos ficaram admirados com a precisão da máquina.
 
