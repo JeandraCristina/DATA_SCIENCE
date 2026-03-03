@@ -58,3 +58,5 @@ maquina = LinearRegression()  # Criamos nossa máquina de regressão mágica
 maquina.fit(tamanhos, precos)
 
 # Nossa máquina agora aprendeu uma regra mágica que conecta tamanhos e preços!
+
+# Ok, agora temos uma casa nova, e queremos saber o preço dela.
