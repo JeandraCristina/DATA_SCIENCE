@@ -60,3 +60,5 @@ maquina.fit(tamanhos, precos)
 # Nossa máquina agora aprendeu uma regra mágica que conecta tamanhos e preços!
 
 # Ok, agora temos uma casa nova, e queremos saber o preço dela.
+tamanho_nova_casa = [[130]]  # Tamanho da casa nova (também em metros quadrados)
+
