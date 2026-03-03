@@ -64,3 +64,5 @@ tamanho_nova_casa = [[130]]  # Tamanho da casa nova (também em metros quadrados
 
 # Vamos pedir para a máquina adivinhar o preço da casa nova com base na regra mágica que ela aprendeu
 preco_adivinhado = maquina.predict(tamanho_nova_casa)
+
+# Uau! A máquina fez uma adivinhação do preço da casa nova! Vamos ver o que ela acha...
