@@ -100,4 +100,5 @@ e outras para testar suas habilidades mágicas.
 A máquina mágica, chamada de "K-Nearest Neighbors" (Vizinhos Mais Próximos),
 ficou muito curiosa para aprender sobre as flores. Ela olhou atentamente para
 as pistas mágicas e aprendeu a diferenciar as características das flores de cada tipo.
+Ela ficou tão boa que conseguia olhar para uma flor nova e dizer qual tipo de flor era,
 
