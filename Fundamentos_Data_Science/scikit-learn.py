@@ -87,5 +87,5 @@ print(f"A diferença entre a adivinhação da máquina e o preço real é {erro:
 #CLASSIFICAÇÃO
 Era uma vez um jardim mágico cheio de flores incríveis e misteriosas. 
 Nesse jardim, viviam três tipos diferentes de flores: as flores Setosas,
-
+as flores Versicolor e as flores Virginicas. Um grupo de cientistas,
 
