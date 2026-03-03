@@ -49,3 +49,5 @@ from sklearn.linear_model import LinearRegression
 
 # Agora, vamos criar nossa lista de tamanhos de casas (características) e os preços delas (alvos)
 tamanhos = [[80], [100], [120], [150], [200]]  # Tamanhos das casas (em metros quadrados)
+precos = [150000, 200000, 230000, 280000, 350000]  # Preços das casas (em moedas mágicas)
+
