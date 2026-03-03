@@ -82,3 +82,7 @@ erro = preco_real_surpresa - precos_adivinhados_surpresa[0]  # Calculamos o erro
 print(f"A máquina adivinhou um preço de {precos_adivinhados_surpresa[0]:.2f} moedas mágicas para a casa surpresa.")
 print(f"O preço real da casa surpresa é {preco_real_surpresa:.2f} moedas mágicas.")
 print(f"A diferença entre a adivinhação da máquina e o preço real é {erro:.2f} moedas mágicas.")
+
+"""
+#CLASSIFICAÇÃO
+
