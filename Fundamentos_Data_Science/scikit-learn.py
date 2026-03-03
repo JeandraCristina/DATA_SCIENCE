@@ -104,4 +104,5 @@ Ela ficou tão boa que conseguia olhar para uma flor nova e dizer qual tipo de f
 só de olhar para o tamanho das pétalas e sépalas.
 Um dia, um pesquisador trouxe uma flor que nunca tinha sido vista antes. 
 Era uma flor desconhecida, com tamanhos mágicos de pétalas e sépalas. Ele pediu à máquina para
+adivinhar o tipo da flor, e a máquina, confiante em seus conhecimentos mágicos, fez uma previsão.
 
