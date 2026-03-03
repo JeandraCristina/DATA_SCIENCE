@@ -46,3 +46,6 @@ de casas com base em seus tamanhos!
 
 # Primeiro, precisamos importar a biblioteca mágica chamada scikit-learn
 from sklearn.linear_model import LinearRegression
+
+# Agora, vamos criar nossa lista de tamanhos de casas (características) e os preços delas (alvos)
+
