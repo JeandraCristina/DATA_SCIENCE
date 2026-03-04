@@ -122,4 +122,5 @@ mas suas habilidades continuaram a deslumbrar os cientistas em muitas outras ave
 
 # Primeiro, importamos a biblioteca mágica chamada scikit-learn
 from sklearn.datasets import load_iris  # Vamos usar um conjunto de dados mágico do scikit-learn
+from sklearn.model_selection import train_test_split
 
