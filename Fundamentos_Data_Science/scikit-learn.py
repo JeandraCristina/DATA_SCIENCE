@@ -120,3 +120,6 @@ E assim, a história da máquina mágica de classificação chegou ao fim,
 mas suas habilidades continuaram a deslumbrar os cientistas em muitas outras aventuras mágicas.
 """
 
+# Primeiro, importamos a biblioteca mágica chamada scikit-learn
+
+
