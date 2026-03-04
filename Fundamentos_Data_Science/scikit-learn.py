@@ -116,4 +116,5 @@ máquina tinha uma precisão mágica de aproximadamente 83%, ou seja, ela acerto
 E assim, a máquina mágica do "scikit-learn" mostrou que podia aprender com pistas mágicas e
 fazer previsões mágicas sobre os tipos das flores. Os cientistas ficaram encantados com essa mágica moderna,
 que podia ajudá-los a entender melhor o mundo mágico das flores.
+E assim, a história da máquina mágica de classificação chegou ao fim,
 
