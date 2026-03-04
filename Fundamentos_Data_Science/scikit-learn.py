@@ -112,4 +112,5 @@ A máquina fez suas adivinhações, e os cientistas compararam suas previsões c
 flores surpresa. A máquina acertou a maioria das vezes!
 Os cientistas ficaram maravilhados com a precisão da máquina. Eles usaram uma mágica especial
 chamada "Acurácia" para medir o quão boa a máquina estava em adivinhar. Eles viram que a
+chamada "Acurácia" para medir o quão boa a máquina estava em adivinhar. Eles viram que a
 
