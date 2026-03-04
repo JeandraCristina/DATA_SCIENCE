@@ -109,4 +109,5 @@ Ela disse: "A flor é do tipo X!" E todos ficaram admirados com a precisão da m
 Mas os cientistas adoravam desafios e decidiram testar a máquina com flores surpresa.
 Eles trouxeram duas flores surpresa com tamanhos mágicos e pediram à máquina para adivinhar seus tipos.
 A máquina fez suas adivinhações, e os cientistas compararam suas previsões com os tipos reais das
+flores surpresa. A máquina acertou a maioria das vezes!
 
