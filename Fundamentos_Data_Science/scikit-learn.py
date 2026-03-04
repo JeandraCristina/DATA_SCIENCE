@@ -114,4 +114,5 @@ Os cientistas ficaram maravilhados com a precisão da máquina. Eles usaram uma 
 chamada "Acurácia" para medir o quão boa a máquina estava em adivinhar. Eles viram que a
 máquina tinha uma precisão mágica de aproximadamente 83%, ou seja, ela acertou 83% das vezes!
 E assim, a máquina mágica do "scikit-learn" mostrou que podia aprender com pistas mágicas e
+fazer previsões mágicas sobre os tipos das flores. Os cientistas ficaram encantados com essa mágica moderna,
 
