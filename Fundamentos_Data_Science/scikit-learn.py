@@ -140,5 +140,6 @@ caracteristicas_treino, caracteristicas_teste, alvos_treino, alvos_teste = train
 maquina_classificacao = KNeighborsClassifier(n_neighbors=3)  # K = 3, que é o número de vizinhos mágicos
 
 # Ensinamos nossa máquina mágica sobre as flores e seus tipos
+maquina_classificacao.fit(caracteristicas_treino, alvos_treino)
 
                                                                                             
