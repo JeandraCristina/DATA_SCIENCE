@@ -150,4 +150,7 @@ flor_desconhecida = [[5.1, 3.5, 1.4, 0.2]]  # Características da flor nova (tam
 # Pedimos para a máquina adivinhar o tipo da flor nova com base no que ela aprendeu
 tipo_adivinhado = maquina_classificacao.predict(flor_desconhecida)
 
+# Uau! A máquina fez uma adivinhação do tipo da flor nova! Vamos ver o que ela acha...
+
+
                                                                                             
