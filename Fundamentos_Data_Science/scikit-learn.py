@@ -134,4 +134,5 @@ caracteristicas = dados_iris.data  # Tamanho da pétala e sépala das flores
 alvos = dados_iris.target  # Tipo de flor (0, 1 ou 2)
 
 # Dividimos os dados em conjuntos de treinamento e teste
-caracteristicas_treino, caracteristicas_teste, alvos_treino, alvos_teste = train_test_split(caracteristicas, alvos,
+caracteristicas_treino, caracteristicas_teste, alvos_treino, alvos_teste = train_test_split(caracteristicas, alvos,test_size=0.2, random_state=42)
+                                                                                            
