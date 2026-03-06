@@ -135,6 +135,9 @@ alvos = dados_iris.target  # Tipo de flor (0, 1 ou 2)
 
 # Dividimos os dados em conjuntos de treinamento e teste
 caracteristicas_treino, caracteristicas_teste, alvos_treino, alvos_teste = train_test_split(caracteristicas, alvos,test_size=0.2, random_state=42)
+
 # Criamos nossa máquina de classificação mágica (K-Nearest Neighbors)
+maquina_classificacao = KNeighborsClassifier(n_neighbors=3)  # K = 3, que é o número de vizinhos mágicos
+
 
                                                                                             
