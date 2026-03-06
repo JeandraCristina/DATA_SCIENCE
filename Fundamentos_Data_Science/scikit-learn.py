@@ -127,3 +127,4 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score
 
 # Carregamos o conjunto de dados mágico chamado "Iris"
+dados_iris = load_iris()
