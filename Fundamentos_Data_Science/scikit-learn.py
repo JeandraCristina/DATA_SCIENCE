@@ -144,4 +144,6 @@ maquina_classificacao.fit(caracteristicas_treino, alvos_treino)
 
 # Agora, nossa máquina sabe como diferenciar tipos de flores!
 
+# Pegamos uma flor nova e queremos saber qual é o tipo dela.
+
                                                                                             
