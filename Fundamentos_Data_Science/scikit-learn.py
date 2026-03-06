@@ -130,3 +130,4 @@ from sklearn.metrics import accuracy_score
 dados_iris = load_iris()
 
 # As características das flores são como pistas para a máquina mágica (scikit-learn)
+caracteristicas = dados_iris.data  # Tamanho da pétala e sépala das flores
