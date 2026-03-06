@@ -147,5 +147,7 @@ maquina_classificacao.fit(caracteristicas_treino, alvos_treino)
 # Pegamos uma flor nova e queremos saber qual é o tipo dela.
 flor_desconhecida = [[5.1, 3.5, 1.4, 0.2]]  # Características da flor nova (tamanho da pétala e sépala)
 
+# Pedimos para a máquina adivinhar o tipo da flor nova com base no que ela aprendeu
+
 
                                                                                             
