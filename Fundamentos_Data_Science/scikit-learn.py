@@ -142,4 +142,6 @@ maquina_classificacao = KNeighborsClassifier(n_neighbors=3)  # K = 3, que é o n
 # Ensinamos nossa máquina mágica sobre as flores e seus tipos
 maquina_classificacao.fit(caracteristicas_treino, alvos_treino)
 
+# Agora, nossa máquina sabe como diferenciar tipos de flores!
+
                                                                                             
