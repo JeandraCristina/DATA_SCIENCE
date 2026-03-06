@@ -128,3 +128,5 @@ from sklearn.metrics import accuracy_score
 
 # Carregamos o conjunto de dados mágico chamado "Iris"
 dados_iris = load_iris()
+
+# As características das flores são como pistas para a máquina mágica (scikit-learn)
