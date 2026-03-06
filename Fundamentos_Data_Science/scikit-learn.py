@@ -139,5 +139,6 @@ caracteristicas_treino, caracteristicas_teste, alvos_treino, alvos_teste = train
 # Criamos nossa máquina de classificação mágica (K-Nearest Neighbors)
 maquina_classificacao = KNeighborsClassifier(n_neighbors=3)  # K = 3, que é o número de vizinhos mágicos
 
+# Ensinamos nossa máquina mágica sobre as flores e seus tipos
 
                                                                                             
