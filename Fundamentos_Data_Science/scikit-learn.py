@@ -178,6 +178,7 @@ Esses Pontos tinham características mágicas, como brilho e cor. No entanto,
 esses Pontos eram muito curiosos e queriam estar perto de outros Pontos que
 fossem semelhantes a eles.
 Um dia, um grupo de cientistas mágicos decidiu explorar essa terra e entender
+como os Pontos gostavam de se agrupar. Para isso, eles trouxeram uma ferramenta mágica chamada
 
 
                                                                                             
