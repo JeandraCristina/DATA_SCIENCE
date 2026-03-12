@@ -182,5 +182,6 @@ como os Pontos gostavam de se agrupar. Para isso, eles trouxeram uma ferramenta 
 "scikit-learn" que tinha um feitiço especial chamado K-Means. Esse feitiço permitia que eles
 ensinassem a máquina a criar grupos mágicos de Pontos com base em suas características.
 Os cientistas começaram a criar Pontos mágicos usando uma fórmula secreta,
+formando grupos de Pontos brilhantes em diferentes partes da terra. 
 
                                                                                             
