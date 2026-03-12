@@ -154,5 +154,6 @@ tipo_adivinhado = maquina_classificacao.predict(flor_desconhecida)
 print(f"A máquina adivinha que o tipo da flor é {tipo_adivinhado[0]}!")
 
 # Agora, a parte divertida: vamos testar se a máquina é boa em adivinhar. Temos flores surpresa!
+flores_surpresa = [
 
                                                                                             
