@@ -164,5 +164,7 @@ tipos_adivinhados_surpresa = maquina_classificacao.predict(flores_surpresa)
 
 # Agora, nós, os detetives, comparamos as adivinhações da máquina com os tipos reais das flores surpresa
 tipos_reais_surpresa = [2, 1]  # Tipos reais das flores surpresa
+acuracia = accuracy_score(tipos_reais_surpresa, tipos_adivinhados_surpresa)  # Calculamos a precisão mágica
+
 
                                                                                             
