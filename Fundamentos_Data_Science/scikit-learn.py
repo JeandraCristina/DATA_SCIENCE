@@ -186,5 +186,6 @@ formando grupos de Pontos brilhantes em diferentes partes da terra.
 Eles criaram quatro grupos mágicos de Pontos, cada um com um brilho e uma cor únicos.
 A máquina mágica de K-Means ficou empolgada em aprender sobre os Pontos e como eles
 gostavam de se juntar. Os cientistas ensinaram a máquina a reconhecer as características
+dos Pontos e a formar grupos mágicos com base na proximidade entre eles. 
 
                                                                                             
