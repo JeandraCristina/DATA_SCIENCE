@@ -159,6 +159,7 @@ flores_surpresa = [
     [5.7, 2.8, 4.5, 1.3]
 ]
 
+# Pedimos para a máquina adivinhar o tipo das flores surpresa
 
 
                                                                                             
