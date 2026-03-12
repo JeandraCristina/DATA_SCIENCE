@@ -174,5 +174,6 @@ print(f"A precisão da máquina em adivinhar é aproximadamente {acuracia:.2f} m
 """
 # CLUSTERIZAÇÃO
 Havia uma terra encantada onde viviam criaturas mágicas chamadas "Pontos".
+Esses Pontos tinham características mágicas, como brilho e cor. No entanto,
 
                                                                                             
