@@ -171,4 +171,7 @@ print(f"A máquina adivinhou os tipos das flores surpresa: {tipos_adivinhados_su
 print(f"Os tipos reais das flores surpresa são: {tipos_reais_surpresa}.")
 print(f"A precisão da máquina em adivinhar é aproximadamente {acuracia:.2f} moedas mágicas!")
 
+"""
+# CLUSTERIZAÇÃO
+
                                                                                             
