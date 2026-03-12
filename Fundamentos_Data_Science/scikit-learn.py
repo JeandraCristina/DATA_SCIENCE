@@ -169,5 +169,6 @@ acuracia = accuracy_score(tipos_reais_surpresa, tipos_adivinhados_surpresa)  # C
 # Vamos ver o que aconteceu!
 print(f"A máquina adivinhou os tipos das flores surpresa: {tipos_adivinhados_surpresa}!")
 print(f"Os tipos reais das flores surpresa são: {tipos_reais_surpresa}.")
+print(f"A precisão da máquina em adivinhar é aproximadamente {acuracia:.2f} moedas mágicas!")
 
                                                                                             
