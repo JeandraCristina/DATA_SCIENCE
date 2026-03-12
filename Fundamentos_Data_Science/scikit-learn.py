@@ -184,5 +184,6 @@ ensinassem a máquina a criar grupos mágicos de Pontos com base em suas caracte
 Os cientistas começaram a criar Pontos mágicos usando uma fórmula secreta,
 formando grupos de Pontos brilhantes em diferentes partes da terra. 
 Eles criaram quatro grupos mágicos de Pontos, cada um com um brilho e uma cor únicos.
+A máquina mágica de K-Means ficou empolgada em aprender sobre os Pontos e como eles
 
                                                                                             
