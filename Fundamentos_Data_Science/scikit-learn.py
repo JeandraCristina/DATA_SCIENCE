@@ -190,5 +190,6 @@ dos Pontos e a formar grupos mágicos com base na proximidade entre eles.
 A máquina estudou os Pontos com muita atenção e aprendeu a criar grupos que fossem parecidos uns com os outros.
 Depois de um tempo, a máquina mágica de K-Means ficou muito sábia e disse aos cientistas
 que tinha aprendido a formar quatro grupos mágicos de Pontos com base em suas características.
+Os cientistas ficaram animados e pediram à máquina para mostrar como os grupos foram formados.
 
                                                                                             
