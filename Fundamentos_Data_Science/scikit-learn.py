@@ -193,5 +193,6 @@ que tinha aprendido a formar quatro grupos mágicos de Pontos com base em suas c
 Os cientistas ficaram animados e pediram à máquina para mostrar como os grupos foram formados.
 A máquina pegou cada Ponto e colocou-o no grupo mágico mais próximo. Ela usou sua
 magia para criar quatro grupos coloridos de Pontos em um mapa especial. Os cientistas
+ficaram admirados ao ver os grupos mágicos formados no mapa, cada um com um brilho característico.
 
                                                                                             
