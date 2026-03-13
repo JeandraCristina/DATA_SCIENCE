@@ -198,5 +198,6 @@ Mas a máquina não parou por aí! Ela também encontrou algo muito especial em 
 o Ponto que estava mais no centro do grupo. Esse Ponto era especial porque era como o líder
 mágico do grupo. A máquina desenhou esses líderes mágicos em vermelho brilhante no mapa,
 para que todos pudessem vê-los.
+E assim, os cientistas mágicos olharam para o mapa e viram como os Pontos haviam sido agrupados
 
                                                                                             
