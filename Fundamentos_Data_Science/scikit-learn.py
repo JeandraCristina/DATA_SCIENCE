@@ -194,5 +194,6 @@ Os cientistas ficaram animados e pediram à máquina para mostrar como os grupos
 A máquina pegou cada Ponto e colocou-o no grupo mágico mais próximo. Ela usou sua
 magia para criar quatro grupos coloridos de Pontos em um mapa especial. Os cientistas
 ficaram admirados ao ver os grupos mágicos formados no mapa, cada um com um brilho característico.
+Mas a máquina não parou por aí! Ela também encontrou algo muito especial em cada grupo: 
 
                                                                                             
