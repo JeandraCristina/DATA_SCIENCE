@@ -196,5 +196,7 @@ magia para criar quatro grupos coloridos de Pontos em um mapa especial. Os cient
 ficaram admirados ao ver os grupos mágicos formados no mapa, cada um com um brilho característico.
 Mas a máquina não parou por aí! Ela também encontrou algo muito especial em cada grupo: 
 o Ponto que estava mais no centro do grupo. Esse Ponto era especial porque era como o líder
+mágico do grupo. A máquina desenhou esses líderes mágicos em vermelho brilhante no mapa,
+para que todos pudessem vê-los.
 
                                                                                             
