@@ -206,3 +206,5 @@ os segredos da terra encantada dos Pontos e criar grupos mágicos cheios de bril
 Espero que essa história ajude a entender o código e o conceito de clusterização usando o K-Means
 com um conjunto de dados mágico!
 """
+
+# Primeiro, importamos a biblioteca mágica chamada scikit-learn
