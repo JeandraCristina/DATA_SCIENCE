@@ -202,5 +202,6 @@ E assim, os cientistas mágicos olharam para o mapa e viram como os Pontos havia
 em grupos mágicos. Eles ficaram maravilhados com a mágica do K-Means e como ele tinha entendido
 a magia dos Pontos.
 E essa é a história de como os cientistas mágicos usaram o K-Means do scikit-learn para desvendar
+os segredos da terra encantada dos Pontos e criar grupos mágicos cheios de brilho e cor.
 
                                                                                             
