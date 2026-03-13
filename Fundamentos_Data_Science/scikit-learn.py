@@ -210,3 +210,4 @@ com um conjunto de dados mágico!
 # Primeiro, importamos a biblioteca mágica chamada scikit-learn
 from sklearn.datasets import make_blobs  # Vamos criar um conjunto de dados mágico
 from sklearn.cluster import KMeans
+import matplotlib.pyplot as plt
